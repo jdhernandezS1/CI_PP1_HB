@@ -6,17 +6,17 @@ Features
 	continue with a slogan for the "restaurant" and a some words to make feel good the guess
 	and some specialitys to open the mind of the readers
 	
-	<img src"/assets/IMG/bar.png width="200">
+	<img src"assets/IMG/bar.png width="200">
 	and some arguments and bases of the diet
 	
 	second is a little introduction to vegetarian and benefits
 	
-	<img src="/assets/IMG/bar.png">
+	<img src="assets/IMG/bar.png">
 	we talk about how the meat production destroy the environment and some illneses
 	third is the contact with us to know about the client and how they felt.
 
 	
-	<img src="/assets/IMG/3.png" width="200">
+	<img src="assets/IMG/3.png" width="200">
 	 in a relaxing 	design to dont disturb the writer in where the user can feel quiet to express 		the ideas.
 
 	the footer was created to be fluid with the other colors and share some social medias about 		by the restaurant.

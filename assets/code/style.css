@@ -6,18 +6,28 @@ body{
 .nav_bar{
     display: flex;
     flex-direction: row;
-    justify-content:space-around;
+    justify-content:space-between;
     height: 3vw;
     width: 100%;
     padding: 1vw;
     background-color: whitesmoke;
-    position:absolute;
+    position:fixed;
+    z-index: 3;
     
+}
+.nav_item, .nav_item h1{
+    margin: 0;
+    padding: 0 30px;
+}
+.nav_wrapper{
+    font-size: x-large;
+    display: flex;
+    flex-direction: row;
 }
 .nav_bar a{
     color:black;
     text-decoration: none;
-    font-size: x-large;
+    font-size: large;
 }
 .ion_icon{ 
     font-size: 2vw;

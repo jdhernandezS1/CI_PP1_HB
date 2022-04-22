@@ -34,4 +34,6 @@ Credits
 	Google apis for fonts and maps : fonts.googleapis.com
 	icons source : https://ionic.io/ionicons
 
-	
+BUGS FIXED
+	z-index for the nav bar because the ion icons and navigation bar had different z level
+	was solved with change priority

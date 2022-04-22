@@ -13,7 +13,6 @@ body{
     background-color: whitesmoke;
     position:fixed;
     z-index: 3;
-    
 }
 .nav_item, .nav_item h1{
     margin: 0;
@@ -99,6 +98,113 @@ body{
     border-radius: 10%;
     height: 30vw;
 }
+
+/* Style about.html */
+/*  */
+    .contact_us{
+        text-align: center;
+        background-color:gray;
+        width: 90vw;
+        height: 30vw;
+    }
+    .contact_us_sec{
+        text-align: center;
+        background-color:gray;
+    }
+    .contact_us h1{
+        color:white;
+        padding: 10vw;
+    }
+    .contact_us ion-icon{
+        font-size: 6vw;
+    }
+
+    form label {
+        font-size: large;
+        display: block;
+    }
+    .form{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    color: whitesmoke;
+    text-align: center;
+    align-items: center;
+    }
+    .form_box2{
+        width: 40vw;
+        color: black;
+        background-image: url("https://www.michalsons.com/wp-content/uploads/2019/04/legal-opnion-letter-e1555494667801.jpg");
+        background-position:center;
+        background-size:contain;
+        background-repeat: no-repeat;
+        padding: 3vw;
+        border-radius: 20%;
+        border: solid black 1px;
+    }
+    .form_box2 input{
+        height: 5vw;
+        border-radius: 4%;
+        width: 80%;
+        text-align: center;
+        border: none;
+        background-color: rgba(95, 95, 95, 0.16);
+
+    }
+    .form_box2 textarea{
+        border-radius: 4%;
+        height: 20vw;
+        width: 80%;
+        border: none;
+        background-color: rgba(95, 95, 95, 0.16);
+
+
+    }
+    form input[type="button"] {
+        color: white;
+        align-items: center;    
+
+    }
+    .map {
+        align-items: center;
+        text-align: center;
+        padding: 3vw;
+    }
+    .map iframe {
+        width:50vw; 
+        height:40vw;
+        border-radius: 10%;
+    }
+    .questions_box1{
+        align-items: center;
+        text-align: center;
+    }
+/*  */
+/* benefits styles */
+.benefits_wrap{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    padding-top: 5vw;
+    flex-direction: column;
+    align-items: center;
+}
+.benefits_container{
+    text-align: justify;
+    align-items: center;
+    width: 50vw;
+    margin: 0px;
+}
+.benefits_container img{
+    width: 35vw;
+    height: 25vw;
+}
+
+hr{
+    background-color: green;
+}
+
 /* sections */
 section{
     padding: 5vw;
@@ -122,108 +228,4 @@ footer {
   }
 ion-icon{
     color: black;
-}
-
-/* Style about.html */
-.contact_us{
-    text-align: center;
-    background-color:gray;
-    width: 90vw;
-    height: 30vw;
-}
-.contact_us_sec{
-    text-align: center;
-    background-color:gray;
-}
-.contact_us h1{
-    color:white;
-    padding: 10vw;
-}
-.contact_us ion-icon{
-    font-size: 6vw;
-}
-
-form label {
-    font-size: large;
-    display: block;
-  }
-.form{
-  display: flex;
-  flex-wrap: wrap;
-  flex-direction: column;
-  justify-content: center;
-  color: whitesmoke;
-  text-align: center;
-  align-items: center;
-  }
-.form_box2{
-    width: 40vw;
-    color: black;
-    background-image: url("https://www.michalsons.com/wp-content/uploads/2019/04/legal-opnion-letter-e1555494667801.jpg");
-    background-position:center;
-    background-size:contain;
-    background-repeat: no-repeat;
-    padding: 3vw;
-    border-radius: 20%;
-    border: solid black 1px;
-}
-.form_box2 input{
-    height: 5vw;
-    border-radius: 4%;
-    width: 80%;
-    text-align: center;
-    border: none;
-    background-color: rgba(95, 95, 95, 0.16);
-
-}
-.form_box2 textarea{
-    border-radius: 4%;
-    height: 20vw;
-    width: 80%;
-    border: none;
-    background-color: rgba(95, 95, 95, 0.16);
-
-
-}
-form input[type="button"] {
-    color: white;
-    align-items: center;    
-
-  }
-.map {
-    align-items: center;
-    text-align: center;
-    padding: 3vw;
-}
-.map iframe {
-    width:50vw; 
-    height:40vw;
-    border-radius: 10%;
-}
-.questions_box1{
-    align-items: center;
-    text-align: center;
-}
-/* benefits styles */
-.benefits_wrap{
-    width: 100vw;
-    display: flex;
-    justify-content: center;
-    padding-top: 5vw;
-    flex-direction: column;
-    align-items: center;
-}
-.benefits_container{
-    text-align: justify;
-    align-items: center;
-    width: 50vw;
-    margin: 0px;
-}
-.benefits_container img{
-    width: 35vw;
-    height: 25vw;
-}
-
-hr{
-    background-color: green;
 }

@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,100&display=swap'); /* Google fonts  */
 body{
     margin: 0;
     font-family: 'Roboto', sans-serif;
@@ -228,4 +228,49 @@ footer {
   }
 ion-icon{
     color: black;
+}
+/* DISPLAY SET UP */
+@media screen and (max-width: 480px){
+    .nav_item{
+        padding: 0 5px;
+    }
+    .guide_wrap{
+        padding: 10px;
+        flex-direction: column;
+        width: 90%;
+    }
+    .guide{
+        width: 100%;
+    }
+    .guide img{
+        text-align: center;
+    }
+    .nav_bar{
+        height: 8vw;
+        justify-content: space-around;
+    }
+    .nav_item{
+        padding: 0 1px;
+    }
+    .nav_item h1{
+        padding-right: 0;
+    }
+    .video iframe{
+        width: auto;
+        height: auto;
+    }
+    section {
+        padding: 0;
+    }
+    .benefits_container{
+        width: 85vw;
+    }
+    .contact_us{
+        width: 100vw;
+    }
+    .banner{
+        width: 100vw;
+        height: 50px;
+    }
+    
 }

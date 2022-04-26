@@ -12,6 +12,7 @@ the Navigation bar was developed in 2 divisions where contain the items to navig
 ![navigationbar](./assets/IMG/bar_1.jpeg)	
 
 continue with a slogan for the "restaurant" and a some words to make feel good the guess and some specialitys to open the mind of the readers
+
 ![bar](./assets/IMG/special.jpeg)	
 
 and some arguments and bases of the diet
@@ -32,11 +33,14 @@ No errors were returned when passing through the official W3C validator and adve
 Deployment
 was design in html and css using the concepts and applying to the entire design.
 was tested with wc3 compilator environment were used some pictures and some information with the references to let know the user are not our images
-
-Credits
+![test1](./assets/IMG/checks.jpeg)
+![test2](./assets/IMG/checks2.jpeg)
+![test3](./assets/IMG/checks3.jpeg)
+![test4](./assets/IMG/checks4.jpeg)
+#Credits
 	Google apis for fonts and maps : fonts.googleapis.com
 	icons source : https://ionic.io/ionicons
 	https://www.w3schools.com
-BUGS FIXED
+#BUGS FIXED
 	z-index for the nav bar because the ion icons and navigation bar had different z level
 	was solved with change priority

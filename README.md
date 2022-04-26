@@ -1,15 +1,15 @@
 ##PP1_PROJECT
 
-This web page was developed to emulate a veggetarian restaurant and create awareness to how we can help the environment with reducing the animal agriculture just eating less meat or any, the second is how we can be healty just doing a balanced diet eating more veggs
+<pre>This web page was developed to emulate a veggetarian restaurant and create awareness to how we can help the environment with reducing the animal agriculture just eating less meat or any, the second is how we can be healty just doing a balanced diet eating more veggs
 ##INSTALATION 
 the code can be downloaded 
-with comand git clone https://github.com/jdhernandezS1/PP1_PROJECT.git
-and viwed online in https://jdhernandezs1.github.io/PP1_PROJECT/index.html
+with comand git clone https://github.com/jdhernandezS1/PP1_PROJECT.git  
+and viwed online in [link_to_page](https://jdhernandezs1.github.io/PP1_PROJECT/index.html)
 
 ##Features
-the page is divided in 3 HTML documents first is a home page in where the user can apreciate a image to make you feel how taste is it 
-the Navigation bar was developed in 2 divisions where contain the items to navigate under the page
-![navigationbar](./assets/IMG/bar_1.jpeg)	
+<pre>the page is divided in 3 HTML documents first is a home page in where the user can apreciate a image to make you feel how taste is it 
+the Navigation bar was developed in 2 divisions where contain the items to navigate under the page  
+![navigationbar](./assets/IMG/bar_1.jpeg)  
 
 continue with a slogan for the "restaurant" and a some words to make feel good the guess and some specialitys to open the mind of the readers
 
@@ -17,19 +17,17 @@ continue with a slogan for the "restaurant" and a some words to make feel good t
 
 and some arguments and bases of the diet
 second is a little introduction to vegetarian and benefits
-![bar_pc_view](./assets/IMG/benefits.jpeg)
-
+![bar_pc_view](./assets/IMG/benefits.jpeg)  
 the next section reports about how the meat production destroy the environment and some illneses
 third is the contact with us to know about the client and how they felt.
-in a relaxing design to dont disturb the writer in where the user can feel quiet to express the ideas.
+in a relaxing design to dont disturb the writer in where the user can feel quiet to express the ideas.  
 ![comments](./assets/IMG/3.png)
 the footer was created to be fluid with the other colors and share some social medias about by the restaurant.
 the proyect was developed in HTML & CSS using visual studio code, the code was tested with W3C
-every single html file is divided in sections where you have wrappers to be organized and easy future changes.
+every single html file is divided in sections where you have wrappers to be organized and easy future changes.  
 ![footer](./assets/IMG/footer.jpeg)
-HTML
 #TESTING
-No errors were returned when passing through the official W3C validator and advertences for use of name CSS no errors were found when passing through the official (Jigsaw) validator
+<pre>No errors were returned when passing through the official W3C validator and advertences for use of name CSS no errors were found when passing through the official (Jigsaw) validator
 Deployment
 was design in html and css using the concepts and applying to the entire design.
 was tested with wc3 compilator environment were used some pictures and some information with the references to let know the user are not our images
@@ -38,9 +36,9 @@ was tested with wc3 compilator environment were used some pictures and some info
 ![test3](./assets/IMG/checks3.jpeg)
 ![test4](./assets/IMG/checks4.jpeg)
 #Credits
-	Google apis for fonts and maps : fonts.googleapis.com
+	<pre>Google apis for fonts and maps : fonts.googleapis.com
 	icons source : https://ionic.io/ionicons
 	https://www.w3schools.com
 #BUGS FIXED
-	z-index for the nav bar because the ion icons and navigation bar had different z level
+	<pre>z-index for the nav bar because the ion icons and navigation bar had different z level
 	was solved with change priority

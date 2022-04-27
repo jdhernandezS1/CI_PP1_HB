@@ -1,13 +1,13 @@
-#__PP1_PROJECT__#
-.  
+# __PP1_PROJECT__
+
 This web page was developed to emulate a veggetarian restaurant and create awareness to how we can help the environment with reducing the animal agriculture just eating less meat or any, the second is how we can be healty just doing a balanced diet eating more veggs
-#__INSTALATION__#
+# __INSTALATION__
 .  
 the code can be downloaded 
 with comand git clone https://github.com/jdhernandezS1/PP1_PROJECT.git  
 and viwed online in [link_to_page](https://jdhernandezs1.github.io/PP1_PROJECT/index.html)
 
-#__Features__#
+# __Features__
 .  
 The page is divided in 3 HTML documents first is a home page in where the user can apreciate a image to make you feel how taste is it 
 the Navigation bar was developed in 2 divisions where contain the items to navigate under the page  
@@ -28,7 +28,7 @@ the footer was created to be fluid with the other colors and share some social m
 the proyect was developed in HTML & CSS using visual studio code, the code was tested with W3C
 every single html file is divided in sections where you have wrappers to be organized and easy future changes.  
 ![footer](./assets/IMG/footer.jpeg)  
-#__TESTING__#
+# __TESTING__
 .  
 No errors were returned when passing through the official W3C validator and advertences for use of name CSS no errors were found when passing through the official (Jigsaw) validator
 Deployment
@@ -38,12 +38,12 @@ was tested with wc3 compilator environment were used some pictures and some info
 ![test2](./assets/IMG/checks2.jpeg)
 ![test3](./assets/IMG/checks3.jpeg)
 ![test4](./assets/IMG/checks4.jpeg)  
-#__Credits__#
+# __Credits__
 .  
 	Google apis for fonts and maps : fonts.googleapis.com
 	icons source : https://ionic.io/ionicons
 	https://www.w3schools.com  
-#__BUGS FIXED__#
+# __BUGS FIXED__
 .  
 	z-index for the nav bar because the ion icons and navigation bar had different z level
 	was solved with change priority

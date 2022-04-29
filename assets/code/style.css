@@ -3,6 +3,7 @@ body{
     margin: 0;
     font-family: 'Roboto', sans-serif;
 }
+/* HTML STYLE */
 .nav_bar{
     display: flex;
     flex-direction: row;
@@ -14,6 +15,24 @@ body{
     position:fixed;
     z-index: 3;
 }
+.sidenav{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.sidenav li{
+    float: right;
+}
+.sidenav li{
+    display: block;
+    color: whitesmoke;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.sidenav li a:hover:not(.active) {
+    color: green;
+  }
 .nav_item, .nav_item h1{
     margin: 0;
     padding: 0 30px;

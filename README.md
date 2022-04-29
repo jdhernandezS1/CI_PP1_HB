@@ -4,8 +4,8 @@ This web page was developed to emulate a veggetarian restaurant and create aware
 # __INSTALATION__
 .  
 the code can be downloaded 
-with comand git clone https://github.com/jdhernandezS1/PP1_PROJECT.git  
-and viwed online in [link_to_page](https://jdhernandezs1.github.io/PP1_PROJECT/index.html)
+with comand git clone https://github.com/jdhernandezS1/CI_PP1_HB.git 
+and viwed online in [link_to_page](https://jdhernandezs1.github.io/CI_PP1_HB/index.html)
 
 # __Features__
 .  

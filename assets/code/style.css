@@ -21,7 +21,7 @@ body{
     padding: 0;
 }
 .sidenav li{
-    float: right;
+    float: left;
 }
 .sidenav li{
     display: block;
@@ -402,5 +402,15 @@ ion-icon{
     /* about us  */
     .about{
         margin-top: 70px;
+    }
+    .our_team{
+        height: 100%;
+    }
+    .card_wrapper{
+        text-align: center;
+        flex-direction: column;
+    }
+    .card{
+        width: 90%;
     }
 }

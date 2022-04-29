@@ -8,7 +8,7 @@ body{
     display: flex;
     flex-direction: row;
     justify-content:space-between;
-    height: 3vw;
+    height: 5vw;
     width: 100%;
     padding: 1vw;
     background-color: whitesmoke;
@@ -29,10 +29,15 @@ body{
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+
+}
+.sidenav a:current {
+    text-decoration: underline;
 }
 .sidenav li a:hover:not(.active) {
     color: green;
   }
+
 .nav_item, .nav_item h1{
     margin: 0;
     padding: 0 30px;
@@ -272,6 +277,10 @@ ion-icon{
         align-items: center;
         width: 100%;
         text-align: center;
+    }
+    .guide img{
+        height: 200px;
+        width: 90%;
     }
     /* NAV BAR STYLE */
     .nav_bar{

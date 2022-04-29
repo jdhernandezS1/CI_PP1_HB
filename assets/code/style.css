@@ -246,14 +246,32 @@ hr{
     position:sticky ;
     background-color: whitesmoke;
 }
+.origin_div{
+    width: 0vw;
+    height: 10vw;
+    visibility: hidden;
+}
+.origin{
+    text-align: center;
+}
 .origin picture img{
     height: 100%;
-    width: 100%;
+    width: 80%;
+    border-radius: 40%;
 }
 .origin_wrapp{
-    
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-align: justify;
+    justify-content: space-around;
 }
-/* sections */
+.origin_wrapp h3,p{
+    margin: 10px;
+    padding: 3px;
+} 
+
+    /* sections */
 section{
     padding: 5vw;
 }

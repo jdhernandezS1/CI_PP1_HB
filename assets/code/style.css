@@ -273,17 +273,23 @@ ion-icon{
         width: 100%;
         text-align: center;
     }
+    /* NAV BAR STYLE */
     .nav_bar{
-        height: 8vw;
-        justify-content: space-around;
-    }
+        height: 20vw;
+        flex-direction: column;
+        align-items: center;
+        }
     .nav_item{
-        padding: 0 1px;
-        font-size: small;
+        font-size: medium;
 
     }
     .nav_item h1{
-        padding-right: 0;
+        font-size: medium;
+        inline-size: max-content;
+    }
+    .sidenav li{
+        font-size: small;
+        padding: 1vw 2vw;
     }
     /* benefits */
     .video iframe{
@@ -306,5 +312,9 @@ ion-icon{
     .benefits_container img{
         width: 70vw;
         height: 50vw;
+    }
+    /* contact us style */
+    .form_box2{
+        width: 80vw;
     }
 }

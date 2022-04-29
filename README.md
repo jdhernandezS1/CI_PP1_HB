@@ -1,4 +1,4 @@
-# __PP1_PROJECT__
+# __PP1_HEALTY_BODY__
 
 This web page was developed to emulate a veggetarian restaurant and create awareness to how we can help the environment with reducing the animal agriculture just eating less meat or any, the second is how we can be healty just doing a balanced diet eating more veggs
 # __INSTALATION__

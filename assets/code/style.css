@@ -228,7 +228,31 @@ body{
 hr{
     background-color: green;
 }
-
+/* about style */
+.about{
+    margin-top: 10vw;
+    padding: 10px;
+    background-image: url(https://st2.depositphotos.com/9314468/41969/v/1600/depositphotos_419694358-stock-illustration-fruit-berry-background-abstract-food.jpg);
+    background-position: center;
+    background-size: cover;
+    color: whitesmoke;
+    text-align: center;
+    height: 55vw;
+    width: 93%;
+}
+.about h1{
+    color: green;
+    border-radius: 10%;
+    position:sticky ;
+    background-color: whitesmoke;
+}
+.origin picture img{
+    height: 100%;
+    width: 100%;
+}
+.origin_wrapp{
+    
+}
 /* sections */
 section{
     padding: 5vw;
@@ -325,5 +349,9 @@ ion-icon{
     /* contact us style */
     .form_box2{
         width: 80vw;
+    }
+    /* about us  */
+    .about{
+        margin-top: 70px;
     }
 }

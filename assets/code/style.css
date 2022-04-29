@@ -251,6 +251,8 @@ ion-icon{
     }
     .nav_item{
         padding: 0 1px;
+        font-size: small;
+
     }
     .nav_item h1{
         padding-right: 0;

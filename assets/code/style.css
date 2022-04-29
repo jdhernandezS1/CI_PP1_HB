@@ -259,6 +259,12 @@ hr{
     width: 80%;
     border-radius: 40%;
 }
+.service{
+    height: 90%;
+    width: 90%;
+    align-items: center;
+    margin: 3vw;
+}
 .origin_wrapp{
     display: flex;
     flex-direction: row;
@@ -270,7 +276,32 @@ hr{
     margin: 10px;
     padding: 3px;
 } 
+.our_team{
+    color: whitesmoke;
+    text-align: center;
+    background-color: gray;
+    height: 100vw;
+    width: 80%;
+    padding: 10%;
+}
+.card_wrapper{
+    width: 100%;
+    display: flex;
+    margin: 10px;
+}
+.card{
+    padding: 10px;
+    width: 50%;
 
+}
+.card h2{
+    color: whitesmoke;
+}
+.card img{
+    height: 100%;
+    width: 100%;
+    border-radius: 40%;
+}
     /* sections */
 section{
     padding: 5vw;

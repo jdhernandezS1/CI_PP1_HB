@@ -1,10 +1,14 @@
-# __PP1_HEALTY_BODY__
+# __CI_PP1_HB__
 
-This web page was developed to emulate a veggetarian restaurant and create awareness to how we can help the environment with reducing the animal agriculture just eating less meat or any, the second is how we can be healty just doing a balanced diet eating more veggs
-# __INSTALATION__
+
+**CI_PP1_HB** Is web page was developed to emulate a veggetarian restaurant and create awareness to how we can help the environment with reducing the animal agriculture just eating less meat or any, the second is how we can be healty just doing a balanced diet eating more veggs
+
+## __INSTALATION__
 .  
-the code can be downloaded 
-with comand git clone https://github.com/jdhernandezS1/CI_PP1_HB.git 
+You can download the full code with
+```bash
+git clone https://github.com/jdhernandezS1/CI_PP1_HB.git
+```   
 and viwed online in [link_to_page](https://jdhernandezs1.github.io/CI_PP1_HB/index.html)
 
 # __Features__

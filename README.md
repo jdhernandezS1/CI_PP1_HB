@@ -9,6 +9,11 @@ You can download the full code with
 git clone https://github.com/jdhernandezS1/CI_PP1_HB.git
 ```   
 and viwed online in [link_to_page](https://jdhernandezs1.github.io/CI_PP1_HB/index.html)
+### __UXD__
+Using the user experience design(UX or UE).
+UXD is how a user interacts with and experiences a product, system or service.
+It includes a person's perceptions of utility, ease of use, and efficiency. 
+This design improve user experience of the most important companies, designers, and creators when creating and refining products because negative user experience can diminish the use of the product and, therefore, any desired positive impacts; conversely, designing toward profitability often conflicts with ethical user experience objectives and even causes harm. User experience is subjective. However, the attributes that make up the user experience are objective. 
 
 ### __Features__
 The page is divided in 3 HTML documents first is a home page in where the user can apreciate a image to make you feel how taste is it 
@@ -30,12 +35,16 @@ the footer was created to be fluid with the other colors and share some social m
 the proyect was developed in HTML & CSS using visual studio code, the code was tested with W3C
 every single html file is divided in sections where you have wrappers to be organized and easy future changes.  
 ![footer](./assets/IMG/footer.jpeg)  
-### Browsers support
+# Responsive Design
+Was modified and adapted to the Iphone 5 screen
+![responsive](./assets/IMG/responsive.jpeg)  
+you can apreciate how looks in the picture 
+### __Browsers support__
 
 | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" alt="IE / Edge" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>IE / Edge | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" alt="Firefox" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>Firefox | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" alt="Chrome" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>Chrome | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" alt="Safari" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>Safari | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari-ios/safari-ios_48x48.png" alt="iOS Safari" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>iOS Safari | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/samsung-internet/samsung-internet_48x48.png" alt="Samsung" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>Samsung | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" alt="Opera" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>Opera | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/vivaldi/vivaldi_48x48.png" alt="Vivaldi" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>Vivaldi | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/electron/electron_48x48.png" alt="Electron" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>Electron |
 | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
 | IE10, IE11, Edge| last 2 versions| last 2 versions| last 2 versions| last 2 versions| last 2 versions| last 2 versions| last 2 versions| last 2 versions
-### Dark Mode (Only light Mode)
+### __Dark Mode (Only light Mode)__
 You can use light-mode-only version, if you are not using light mode and also file size less without dark-mode.
 ### __TESTING__
 No errors were returned when passing through the official W3C validator and advertences for use of name CSS no errors were found when passing through the official (Jigsaw) validator
@@ -46,10 +55,10 @@ was tested with wc3 compilator environment were used some pictures and some info
 ![test2](./assets/IMG/checks2.jpeg)
 ![test3](./assets/IMG/checks3.jpeg)
 ![test4](./assets/IMG/checks4.jpeg)  
-## Contributing
+## __Contributing__
 
 Please read through our contributing guidelines Included are directions for opening issues, coding standards, and notes on development.
-## License
+## __License__
 
 CI_PP1_HB is an open source project by [CI_PP1_HB](https://github.com/jdhernandezS1/CI_PP1_HB) that is licensed under [ops](https://opensource.org/).
 CI_PP1_HB reserves the right to change the license of future releases.

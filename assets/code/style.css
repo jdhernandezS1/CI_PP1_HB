@@ -85,6 +85,9 @@ body{
     border-radius: 3%;
 
 }
+.container p{
+    color: black;
+}
 .dish_wrap{
     display: flex;
     flex-direction: column;
@@ -118,6 +121,9 @@ body{
     text-align: justify;
     width: 45%;
 }
+.guide p{
+    color: black;
+}
 .guide img{
     border-radius: 10%;
     height: 30vw;
@@ -133,7 +139,7 @@ body{
     }
     .contact_us_sec{
         text-align: center;
-        background-color:gray;
+        background-color:#313131;
     }
     .contact_us h1{
         color:white;
@@ -224,6 +230,9 @@ body{
     width: 35vw;
     height: 25vw;
 }
+.benefits_container p{
+    color: black;
+}
 
 hr{
     background-color: green;
@@ -252,12 +261,21 @@ hr{
     visibility: hidden;
 }
 .origin{
+    background-color: whitesmoke;
     text-align: center;
 }
 .origin picture img{
     height: 100%;
     width: 80%;
     border-radius: 40%;
+}
+.origin_wrapp{
+    padding: 10vw;
+    background-color: #313131;
+    margin-bottom: 10vw;
+}
+.origin_wrapp picture img {
+    padding: 5vw;
 }
 .service{
     height: 90%;
@@ -275,14 +293,18 @@ hr{
 .origin_wrapp h3,p{
     margin: 10px;
     padding: 3px;
+    color: whitesmoke;
 } 
 .our_team{
     color: whitesmoke;
     text-align: center;
-    background-color: gray;
+    background-color: #313131;
     height: 100vw;
     width: 80%;
     padding: 10%;
+}
+.our_team{
+    color: white;
 }
 .card_wrapper{
     width: 100%;
@@ -359,7 +381,7 @@ ion-icon{
     .nav_bar{
         height: 20vw;
         flex-direction: column;
-        align-items: center;
+        align-items: normal;
         }
     .nav_item{
         font-size: medium;
@@ -402,6 +424,7 @@ ion-icon{
     /* about us  */
     .about{
         margin-top: 70px;
+        padding: 0;
     }
     .our_team{
         height: 100%;
@@ -412,5 +435,8 @@ ion-icon{
     }
     .card{
         width: 90%;
+    }
+    h1,h2{
+        font-size: 1.2em;
     }
 }

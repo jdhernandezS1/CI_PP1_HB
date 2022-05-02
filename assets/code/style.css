@@ -239,6 +239,8 @@ hr{
 }
 /* about style */
 .about{
+    display: flex;
+    justify-content: center;
     margin-top: 10vw;
     padding: 10px;
     background-image: url(https://st2.depositphotos.com/9314468/41969/v/1600/depositphotos_419694358-stock-illustration-fruit-berry-background-abstract-food.jpg);
@@ -252,8 +254,8 @@ hr{
 .about h1{
     color: green;
     border-radius: 10%;
-    position:sticky ;
     background-color: whitesmoke;
+    height: 10%;
 }
 .origin_div{
     width: 0vw;
@@ -314,6 +316,7 @@ hr{
 .card{
     padding: 10px;
     width: 50%;
+    height: 26vw;
 
 }
 .card h2{
@@ -435,6 +438,7 @@ ion-icon{
     }
     .card{
         width: 90%;
+        height: auto;
     }
     h1,h2{
         font-size: 1.2em;

@@ -1,6 +1,6 @@
 # __CI_PP1_HB__
 
-**CI_PP1_HB** Is web page was developed to emulate a veggetarian restaurant and create awareness to how we can help the environment with reducing the animal agriculture just eating less meat or any, the second is how we can be healty just doing a balanced diet eating more veggs
+Code instutute Project portafolio 1 Healthy Body **CI_PP1_HB** Is a web page developed to emulate a veggetarian restaurant and create awareness to how we can help the environment with reducing the animal agriculture just eating less meat or not, the second idea is share how we can be healty just doing a balanced diet eating more veggs 
 ![bar](./assets/IMG/special.jpeg)	
 
 - HTML 
@@ -9,6 +9,14 @@
 - CSS
 "Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language such as HTML.
 [1] CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.[2](https://en.wikipedia.org/wiki/CSS)"
+
+## Objetives
+- Help the people to be healthy 
+- introduce to a new diet or a new life style
+- show the options available 
+- show statics and studies to support our ideas
+- make feel good the readers during the visit 
+
 ## __Built With__
 
 The softwares language and recomended IDE used to build the project.
@@ -73,7 +81,10 @@ was tested with wc3 compilator environment were used some pictures and some info
 ![test4](./assets/IMG/checks4.jpeg)  
 ## __Contributing__
 
-Please read through our contributing guidelines Included are directions for opening issues, coding standards, and notes on development.
+Please read through our contributing guidelines, every pull request has been notified to be able to push code included 
+- directions for opening issues
+- coding standards
+- notes on development
 ## __License__
 
 CI_PP1_HB is an open source project by [CI_PP1_HB](https://github.com/jdhernandezS1/CI_PP1_HB) that is licensed under [ops](https://opensource.org/).

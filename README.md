@@ -1,5 +1,6 @@
 # __CI_PP1_HB__
 
+
 Code instutute Project portafolio 1 Healthy Body **CI_PP1_HB** Is a web page developed to emulate a veggetarian restaurant and create awareness to how we can help the environment with reducing the animal agriculture just eating less meat or not, the second idea is share how we can be healty just doing a balanced diet eating more veggs 
 ![bar](./assets/IMG/special.jpeg)	
 
@@ -41,27 +42,47 @@ It includes a person's perceptions of utility, ease of use, and efficiency.
 This design improve user experience of the most important companies, designers, and creators when creating and refining products because negative user experience can diminish the use of the product and, therefore, any desired positive impacts; conversely, designing toward profitability often conflicts with ethical user experience objectives and even causes harm. User experience is subjective. However, the attributes that make up the user experience are objective. 
 
 ## __Features__
+
+### Navigation Bar
+
 The page is divided in 3 HTML documents first is a home page in where the user can apreciate a image to make you feel how taste is it 
 the Navigation bar was developed in 2 divisions where contain the items to navigate under the page  
 ![navigationbar](./assets/IMG/bar_1.jpeg)  
+### Benefits fluid design
 
 continue with a slogan for the "restaurant" and a some words to make feel good the guess and some specialitys to open the mind of the readers
 and some arguments and bases of the diet
 second is a little introduction to vegetarian and benefits
 ![bar_pc_view](./assets/IMG/benefits.jpeg)  
+
+### Form Design
 the next section reports about how the meat production destroy the environment and some illneses
 third is the contact with us to know about the client and how they felt.
 in a relaxing design to dont disturb the writer in where the user can feel quiet to express the ideas.  
 ![comments](./assets/IMG/3.png)
+
+### Footer
+
 the footer was created to be fluid with the other colors and share some social medias about by the restaurant.
 the proyect was developed in HTML & CSS using visual studio code, the code was tested with W3C
 every single html file is divided in sections where you have wrappers to be organized and easy future changes.  
 ![footer](./assets/IMG/footer.jpeg)  
-# Responsive Design
+
+### Responsive Design
+
+![responsiveweb](assets/IMG/responsiveweb.jpeg)	
+
 Was modified and adapted to the Iphone 5 screen  
 you can apreciate how looks in the picture  
+
 ![responsive](./assets/IMG/responsive.jpeg)  
-## __Browsers support__
+
+### Video 
+
+The video used for the curious clients who want to know more about the diet 
+
+![video](assets/IMG/video.jpeg)  
+# __Browsers support__
 
 | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" alt="IE / Edge" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>IE / Edge | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" alt="Firefox" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>Firefox | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" alt="Chrome" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>Chrome | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" alt="Safari" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>Safari | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari-ios/safari-ios_48x48.png" alt="iOS Safari" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>iOS Safari | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/samsung-internet/samsung-internet_48x48.png" alt="Samsung" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>Samsung | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" alt="Opera" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>Opera | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/vivaldi/vivaldi_48x48.png" alt="Vivaldi" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>Vivaldi | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/electron/electron_48x48.png" alt="Electron" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>Electron |
 | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
@@ -75,18 +96,19 @@ No errors were returned when passing through the official W3C validator and adve
 Deployment
 was design in html and css using the concepts and applying to the entire design.
 was tested with wc3 compilator environment were used some pictures and some information with the references to let know the user are not our images
-<details><summary>Home</summary>
+<details><summary>Index</summary>
 <img src="./assets/IMG/checks.jpeg">
 </details>
-<details><summary>Home</summary>
+<details><summary>About</summary>
 <img src="./assets/IMG/checks2.jpeg">
 </details>
-<details><summary>Home</summary>
+<details><summary>Benefits</summary>
 <img src="./assets/IMG/checks3.jpeg">
 </details>
-<details><summary>Home</summary>
+<details><summary>Style</summary>
 <img src="./assets/IMG/checks4.jpeg">
 </details>
+
 ## __Contributing__
 
 Please read through our contributing guidelines, every pull request has been notified to be able to push code included 

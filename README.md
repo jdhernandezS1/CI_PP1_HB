@@ -75,10 +75,18 @@ No errors were returned when passing through the official W3C validator and adve
 Deployment
 was design in html and css using the concepts and applying to the entire design.
 was tested with wc3 compilator environment were used some pictures and some information with the references to let know the user are not our images
-![test1](./assets/IMG/checks.jpeg)
-![test2](./assets/IMG/checks2.jpeg)
-![test3](./assets/IMG/checks3.jpeg)
-![test4](./assets/IMG/checks4.jpeg)  
+<details><summary>Home</summary>
+<img src="./assets/IMG/checks.jpeg">
+</details>
+<details><summary>Home</summary>
+<img src="./assets/IMG/checks2.jpeg">
+</details>
+<details><summary>Home</summary>
+<img src="./assets/IMG/checks3.jpeg">
+</details>
+<details><summary>Home</summary>
+<img src="./assets/IMG/checks4.jpeg">
+</details>
 ## __Contributing__
 
 Please read through our contributing guidelines, every pull request has been notified to be able to push code included 

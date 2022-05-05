@@ -97,16 +97,19 @@ Deployment
 was design in html and css using the concepts and applying to the entire design.
 was tested with wc3 compilator environment were used some pictures and some information with the references to let know the user are not our images
 <details><summary>Index</summary>
-<img src="./assets/IMG/checks.jpeg">
+<img src="assets/IMG/checks.jpeg">
 </details>
 <details><summary>About</summary>
-<img src="./assets/IMG/checks2.jpeg">
+<img src="assets/IMG/checks2.jpeg">
 </details>
 <details><summary>Benefits</summary>
-<img src="./assets/IMG/checks3.jpeg">
+<img src="assets/IMG/checks3.jpeg">
+</details>
+<details><summary>Contact us</summary>
+<img src="assets/IMG/about_check.jpeg">
 </details>
 <details><summary>Style</summary>
-<img src="./assets/IMG/checks4.jpeg">
+<img src="assets/IMG/checks4.jpeg">
 </details>
 
 ## __Contributing__
@@ -121,10 +124,11 @@ CI_PP1_HB is an open source project by [CI_PP1_HB](https://github.com/jdhernande
 CI_PP1_HB reserves the right to change the license of future releases.
 
 ## __Credits__
-	Google apis for fonts and maps : fonts.googleapis.com
-	icons source : https://ionic.io/ionicons
-	https://www.w3schools.com  
+
+Google apis for fonts and maps : fonts.googleapis.com
+icons source : https://ionic.io/ionicons
+https://www.w3schools.com  
 ## __BUGS FIXED__
 
-	z-index for the nav bar because the ion icons and navigation bar had different z level
-	was solved with change priority
+z-index for the nav bar because the ion icons and navigation bar had different z level
+was solved with change priority

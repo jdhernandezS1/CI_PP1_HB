@@ -10,7 +10,7 @@ body{
     display: flex;
     flex-direction: row;
     justify-content:space-around;
-    height: 5vw;
+    height: auto;
     width: 100%;
     padding: 1vw;
     background-color: whitesmoke;
@@ -208,9 +208,8 @@ body{
         padding: 3vw;
     }
     .map iframe {
-        width:50vw; 
+        width:100%; 
         height:40vw;
-        border-radius: 10%;
     }
     .questions_box1{
         align-items: center;
@@ -242,95 +241,45 @@ body{
 hr{
     background-color: green;
 }
-/* about style */
-.about{
+/* menu style */
+.starter{
+    height: 5vw;
+}
+.menu{
     display: flex;
-    justify-content: center;
-    margin-top: 10vw;
-    padding: 10px;
-    background-image: url(https://st2.depositphotos.com/9314468/41969/v/1600/depositphotos_419694358-stock-illustration-fruit-berry-background-abstract-food.jpg);
+    flex-direction: column;
+    justify-content:center;
+    background-image: url(https://previews.123rf.com/images/angelmaxmixam/angelmaxmixam1601/angelmaxmixam160100056/50819649-pantalla-men%C3%BA-para-pizzer%C3%ADas-y-restaurantes-productos-de-imagen-.jpg);
     background-position: center;
     background-size: cover;
     color: whitesmoke;
     text-align: center;
-    height: 55vw;
-}
-.about h1{
-    color: green;
-    border-radius: 10%;
-    background-color: whitesmoke;
-    height: 10%;
-}
-.origin_div{
-    width: 0vw;
-    height: 10vw;
-    visibility: hidden;
-}
-.origin{
-    background-color: whitesmoke;
-    text-align: center;
-}
-.origin picture img{
-    height: 100%;
-    width: 80%;
-    border-radius: 40%;
-}
-.origin_wrapp{
-    padding: 10vw;
-    background-color: #313131;
-    margin-bottom: 10vw;
-}
-.origin_wrapp picture img {
-    padding: 5vw;
-}
-.service{
-    height: 90%;
-    width: 90%;
-    align-items: center;
-    margin: 3vw;
-}
-.origin_wrapp{
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    text-align: justify;
-    justify-content: space-around;
-}
-.origin_wrapp h3,p{
-    margin: 10px;
-    padding: 3px;
-    color: whitesmoke;
-} 
-.our_team{
-    color: whitesmoke;
-    text-align: center;
-    background-color: #313131;
-    height: 100vw;
-    width: 80%;
-    padding: 10%;
-}
-.our_team{
-    color: white;
-}
-.card_wrapper{
     width: 100%;
-    display: flex;
-    margin: 10px;
+    align-items: center;
 }
-.card{
-    padding: 10px;
-    width: 50%;
-    height: 26vw;
+.menu h1,h2{
+    background-color: rgba(255, 255, 255, 0.25);
+    color: black;
+    width:auto;
+    border-radius: 10%;
+}
+.menu_2col{
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+    justify-content: space-around;
+    max-width: 600px;
 
 }
-.card h2{
-    color: whitesmoke;
+.product-list{
+    border-radius: 10%;
+    background-color: #b9b9b9;
+    margin-bottom: 10%;
 }
-.card img{
-    height: 100%;
-    width: 100%;
-    border-radius: 40%;
-}
+.product-list img{
+    border-radius: 5%;}
     /* sections */
 section{
     padding-top: 5vw;

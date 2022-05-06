@@ -16,6 +16,8 @@ body{
     background-color: whitesmoke;
     position:fixed;
     z-index: 3;
+    border-bottom-style: solid;
+    border-bottom-color: green;
 }
 .sidenav{
     list-style-type: none;
@@ -305,6 +307,10 @@ hr{
     justify-content:space-around;
     flex-direction: column;
 }
+.product_description p{
+    text-transform: lowercase;
+
+}
 .product_price{
     font-size: 15px;
 }
@@ -317,6 +323,8 @@ h1,h2{color: green;}
 /*footer */
 footer {
     border-top: 1px solid #d6d6d6;
+    border-top-style: solid;
+    border-top-color: green;
     background-color:white;
     padding: 25px;
     height: 15%;
@@ -391,6 +399,8 @@ ion-icon{
     }
     .benefits_container{
         width: 85vw;
+        text-align: center;
+        align-items: center;
     }
     .contact_us{
         width: 100vw;

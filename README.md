@@ -1,8 +1,8 @@
 # __CI_PP1_HB__
 
 
-Code instutute Project portafolio 1 Healthy Body **CI_PP1_HB** Is a web page developed to emulate a veggetarian restaurant and create awareness to how we can help the environment with reducing the animal agriculture just eating less meat or not, the second idea is share how we can be healty just doing a balanced diet eating more veggs 
-![bar](./assets/IMG/special.jpeg)	
+Code institute Project portfolio 1 Healthy Body **CI_PP1_HB** Is a web page developed to emulate a vegetarian restaurant and create awareness to how we can help the environment with reducing the animal agriculture just eating less meat or not, the second idea is to share how we can be healthy just doing a balanced diet eating more vegges 
+![bar](./assets/IMG/special.jpeg)   
 
 - HTML 
 "HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript. [1](https://en.wikipedia.org/wiki/HTML) "
@@ -10,6 +10,129 @@ Code instutute Project portafolio 1 Healthy Body **CI_PP1_HB** Is a web page dev
 - CSS
 "Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language such as HTML.
 [1] CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.[2](https://en.wikipedia.org/wiki/CSS)"
+
+![responsiveweb](assets/IMG/responsiveweb.jpeg) 
+[Live web page](https://jdhernandezs1.github.io/CI_PP1_HB/index.html)
+
+
+
+## Table of Content
+
+1. [Project Goals](#project-goals)
+    1. [User Goals](#user-goals)
+    2. [Site Owner Goals](#site-owner-goals)
+2. [User Experience](#user-experience)
+    1. [Target Audience](#target-audience)
+    2. [User Requirements and Expectations](#user-requrements-and-expectations)
+    3. [User Stories](#user-stories)
+3. [Design](#design)
+    1. [Design Choices](#design-choices)
+    2. [Colour](#colours)
+    3. [Fonts](#fonts)
+    4. [Structure](#structure)
+    5. [Wireframes](#wireframes)
+4. [Technologies Used](#technologies-used)
+    1. [Languages](#languages)
+    2. [Frameworks & Tools](#frameworks-&-tools)
+5. [Features](#features)
+6. [Testing](#validation)
+    1. [HTML Validation](#HTML-validation)
+    2. [CSS Validation](#CSS-validation)
+    3. [Accessibility](#accessibility)
+    4. [Performance](#performance)
+    5. [Device testing](#performing-tests-on-various-devices)
+    6. [Browser compatibility](#browser-compatability)
+    7. [Testing user stories](#testing-user-stories)
+8. [Bugs](#Bugs)
+9. [Deployment](#deployment)
+10. [Credits](#credits)
+11. [Acknowledgements](#acknowledgements)
+
+## Project Goals
+
+### User Goals
+
+- Finding a special restaurant that offers a vegetarian menu.
+- Find a menu clear and listed with prices.
+- Find the location and phone of the restaurant.
+- Find a menu with a clear images that shows the meals.
+- Find some information for the people that want to start a vegetarian diet.
+### Site Owner Goals
+
+- Improve the business and acquire clients.
+- Provide the information to contact, arrive and explore the restaurant.
+- Provide the information for the newbies according to the lifestyle.
+- Increase the sales by a clear menu and clear market.
+
+## User Experience
+
+### Target Audience
+
+- People looking for a different place to have a taste vegetarian diet.
+- Groups of family, friends looking for an eco-friendly place.
+- Groups of people who are different and have special diet.
+- Groups of people following a healthy and fit life.
+
+### User Requrements and Expectations
+
+- A Eco-friendly restaurant who care to the environment.
+- A clear and easy navigation page.
+- Clear information providing location and contact.
+- Social links and media work as well.
+- A responsive design that works in different screens.
+- Easy information let the user know all the menu and meals available.
+- Easy Information by the people that don't have a lot of knowledge of a vegetarian diet.
+
+### User Stories
+
+#### First-time User 
+
+1. First time user, wants to know more about the vegetarian diet.
+2. First time user, wants to know the prices, ingredients and meals variety.
+3. First time user, wants to know where the restaurant is located and what the contact is for delivery and reservations.
+4. First time user, wants to let feedback for improving the place that they look for.
+5. First time user, wants to know the benefits of the vegetarian diet.
+
+#### Returning User
+As a returning user, We want:
+
+6. Find a vegetarian place.
+7. Find a place who give information about the food that they provide.
+8. See a menu and prices.
+9. leave feedback about how they felt and what the place can improve.
+10. Find the social media of the restaurant. 
+11. Know about the bases of the vegetarian diet.
+12. Know the location of the restaurant.
+13. See the meals offered.
+14. Know the benefits of the Diet.
+
+#### Site Owner 
+As the site owner, we want:
+
+15. Clients who are searching change to a new diet and be healthy.
+16. Clear page where the client can buy easy.
+17. Easy way to contact us and arrive to the restaurant.
+18. Make feel the clients a place who care about them.
+
+## Design
+
+### Design Choices
+The virtual store was designed to make the customer feel that the place is more than a business, where they feel cared for both their health and the environment, leting know the benefits of the diet.
+
+### Colours
+
+the color tones were specially chosen to conform to the concept and to a simple and friendly design.
+![colors](./assets/IMG/colors.png)  
+
+<br>
+
+<!-- im here -->
+## __INSTALATION__
+You can download the full code with
+```bash
+git clone https://github.com/jdhernandezS1/CI_PP1_HB.git
+```   
+and viwed online in [link_to_page](https://jdhernandezs1.github.io/CI_PP1_HB/index.html)
 
 ## Objetives
 - Help the people to be healthy 
@@ -28,12 +151,6 @@ The softwares language and recomended IDE used to build the project.
 * [Git](https://git-scm.com/)
 * [GitHub](https://github.com/)
 
-## __INSTALATION__
-You can download the full code with
-```bash
-git clone https://github.com/jdhernandezS1/CI_PP1_HB.git
-```   
-and viwed online in [link_to_page](https://jdhernandezs1.github.io/CI_PP1_HB/index.html)
 
 ## __UXD__
 Using the user experience design(UX or UE).
@@ -70,7 +187,6 @@ every single html file is divided in sections where you have wrappers to be orga
 
 ### Responsive Design
 
-![responsiveweb](assets/IMG/responsiveweb.jpeg)	
 
 Was modified and adapted to the Iphone 5 screen  
 you can apreciate how looks in the picture  

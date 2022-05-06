@@ -1,33 +1,38 @@
 /* Google fonts  */
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
 /* GOOGLE */
-body{
+body {
     margin: 0;
     font-family: 'Roboto', sans-serif;
 }
+
 /* HTML STYLE */
-.nav_bar{
+.nav_bar {
     display: flex;
     flex-direction: row;
-    justify-content:space-around;
+    justify-content: space-around;
     height: auto;
     width: 100%;
     padding: 1vw;
     background-color: whitesmoke;
-    position:fixed;
+    position: fixed;
     z-index: 3;
     border-bottom-style: solid;
     border-bottom-color: green;
 }
-.sidenav{
+
+.sidenav {
     list-style-type: none;
     margin: 0;
     padding: 0;
 }
-.sidenav li{
+
+.sidenav li {
     float: left;
 }
-.sidenav li{
+
+.sidenav li {
     display: block;
     color: whitesmoke;
     text-align: center;
@@ -35,52 +40,63 @@ body{
     text-decoration: none;
 
 }
+
 .sidenav a:current {
     text-decoration: underline;
 }
+
 .sidenav li a:hover:not(.active) {
     color: green;
-  }
+}
 
-.nav_item, .nav_item h1{
+.nav_item,
+.nav_item h1 {
     margin: 0;
     padding: 0 30px;
 }
-.nav_wrapper{
+
+.nav_wrapper {
     font-size: x-large;
     display: flex;
     flex-direction: row;
 }
-.nav_bar a{
-    color:black;
+
+.nav_bar a {
+    color: black;
     text-decoration: none;
     font-size: large;
 }
-.ion_icon{ 
+
+.ion_icon {
     font-size: 2vw;
 }
-.home{
+
+.home {
     display: flex;
     justify-content: center;
     padding-top: 3vw;
-    
+
 }
-.home_wrap{
+
+.home_wrap {
     text-align: center;
     text-transform: uppercase;
 }
-.home_pic img{
+
+.home_pic img {
     height: auto;
     width: 100%;
 }
-.sec2_wrap{
+
+.sec2_wrap {
     padding: 1vw;
     display: flex;
     flex-direction: row;
-    justify-content: space-around;   
-    text-align:center;
+    justify-content: space-around;
+    text-align: center;
 }
-.container{
+
+.container {
     width: 30%;
     padding: 1vw;
     border: solid green 1px;
@@ -88,13 +104,16 @@ body{
     border-radius: 3%;
 
 }
-.container p{
+
+.container p {
     color: black;
 }
-.container picture img{
+
+.container picture img {
     border-radius: 10%;
 }
-.dish_wrap{
+
+.dish_wrap {
     display: flex;
     flex-direction: column;
     text-align: center;
@@ -103,65 +122,78 @@ body{
     padding: 3vw;
     border-radius: 3%;
 }
-.dish_container{
+
+.dish_container {
     text-align: center;
 }
-.dish_wrap img{
+
+.dish_wrap img {
     border-radius: 20%;
     align-items: center;
     height: 20vw;
     width: 20vw;
 }
-.divisor{
+
+.divisor {
     background-color: green;
     width: 100%;
     height: 3vw;
 }
-.guide_wrap{
+
+.guide_wrap {
     display: flex;
     flex-direction: row;
     width: 100%;
     justify-content: space-around;
 }
-.guide{
+
+.guide {
     text-align: justify;
     width: 45%;
 }
-.guide p{
+
+.guide p {
     color: black;
 }
-.guide img{
+
+.guide img {
     border-radius: 10%;
     height: 30vw;
 }
 
 /* Style about.html */
 /*  */
-    .contact_us{
-        text-align: center;
-        background-color:gray;
-        width: 100%;
-        height: 40vw;
-        text-transform: capitalize;
-        font-size: larger;
-    }
-    .contact_us_sec{
-        text-align: center;
-        background-color:#313131;
-    }
-    .contact_us h1{
-        color:white;
-        padding: 10vw;
-    }
-    .contact_us ion-icon{
-        font-size: 6vw;
-    }
+.contact_us {
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    text-transform: capitalize;
+    font-size: larger;
+    background-image: url("https://www.itl.cat/pngfile/big/306-3069219_hq-contact-wallpapers-sign.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+}
 
-    form label {
-        font-size: large;
-        display: block;
-    }
-    .form{
+.contact_us_sec {
+    text-align: center;
+    background-color: #313131;
+}
+
+.contact_us h1 {
+    color: black;
+    padding: 10vw;
+}
+
+.contact_us ion-icon {
+    font-size: 6vw;
+}
+
+form label {
+    font-size: large;
+    display: block;
+}
+
+.form {
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
@@ -170,92 +202,107 @@ body{
     text-align: center;
     align-items: center;
     }
-    .form_box2{
-        width: 40vw;
-        color: black;
-        background-image: url("https://www.michalsons.com/wp-content/uploads/2019/04/legal-opnion-letter-e1555494667801.jpg");
-        background-position:center;
-        background-size:contain;
-        background-repeat: no-repeat;
-        padding: 3vw;
-        border-radius: 20%;
-        border: solid black 1px;
-    }
-    .form_box2 input{
-        height: 5vw;
-        border-radius: 4%;
-        width: 80%;
-        text-align: center;
-        border: none;
-        background-color: rgba(95, 95, 95, 0.16);
 
-    }
-    .form_box2 textarea{
-        border-radius: 4%;
-        height: 20vw;
-        width: 80%;
-        border: none;
-        background-color: rgba(95, 95, 95, 0.16);
+.form_box2 {
+    width: 40vw;
+    color: black;
+    background-image: url("https://www.michalsons.com/wp-content/uploads/2019/04/legal-opnion-letter-e1555494667801.jpg");
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 3vw;
+    border-radius: 20%;
+    border: solid black 1px;
+}
+
+.form_box2 input {
+    height: 5vw;
+    border-radius: 4%;
+    width: 80%;
+    text-align: center;
+    border: none;
+    background-color: rgba(95, 95, 95, 0.16);
+
+}
+
+.form_box2 textarea {
+    border-radius: 4%;
+    height: 20vw;
+    width: 80%;
+    border: none;
+    background-color: rgba(95, 95, 95, 0.16);
 
 
-    }
-    form input[type="button"] {
-        color: white;
-        align-items: center;    
+}
 
-    }
-    .map {
-        align-items: center;
-        text-align: center;
-        padding: 3vw;
-    }
-    .map iframe {
-        width:100%; 
-        height:40vw;
-    }
-    .questions_box1{
-        align-items: center;
-        text-align: center;
-    }
+form input[type="button"] {
+    color: white;
+    align-items: center;
+
+}
+
+.map {
+    align-items: center;
+    text-align: center;
+    padding: 3vw;
+}
+
+.map iframe {
+    width: 80%;
+    height: 30vw;
+}
+
+.questions_box1 {
+    align-items: center;
+    text-align: center;
+}
+
 /*  */
 /* benefits styles */
-.benefits_wrap{
+.benefits_wrap {
     display: flex;
     justify-content: center;
     padding-top: 5vw;
     flex-direction: column;
     align-items: center;
 }
-.benefits_container{
+
+.benefits_container {
     text-align: justify;
     align-items: center;
     width: 50vw;
     margin: 0px;
 }
-.benefits_container img{
+
+.benefits_container img {
     width: 35vw;
     height: 25vw;
 }
-.benefits_container p{
+
+.benefits_container p {
     color: black;
 }
-.video iframe{
-    height:40vw;
+
+.video iframe {
+    height: 40vw;
     width: 100%;
     max-width: 600px;
     max-height: 400px;
 }
-hr{
+
+hr {
     background-color: green;
 }
+
 /* menu style */
-.starter{
+.starter {
     height: 5vw;
 }
-.menu{
+
+.menu {
     display: flex;
     flex-direction: column;
-    justify-content:center;
+    justify-content: center;
     background-image: url(https://previews.123rf.com/images/angelmaxmixam/angelmaxmixam1601/angelmaxmixam160100056/50819649-pantalla-men%C3%BA-para-pizzer%C3%ADas-y-restaurantes-productos-de-imagen-.jpg);
     background-position: center;
     background-size: cover;
@@ -264,12 +311,16 @@ hr{
     width: 100%;
     align-items: center;
 }
-.menu h1,h2,h3{
+
+.menu h1,
+h2,
+h3 {
     background-color: rgb(255, 255, 255);
     color: black;
-    width:100%;
+    width: 100%;
 }
-.menu_2col{
+
+.menu_2col {
     list-style-type: none;
     display: flex;
     flex-wrap: wrap;
@@ -279,7 +330,8 @@ hr{
     max-width: 700px;
 
 }
-.product-list{
+
+.product-list {
     padding: 30px;
     border-radius: 10%;
     background-color: #b9b9b9;
@@ -288,171 +340,208 @@ hr{
     display: flex;
     flex-direction: column;
     align-items: center;
-    
+
 }
-.product_item{
+
+.product_item {
     display: flex;
     flex-direction: column;
     padding: 10px;
-    }
-.short-description{
+}
+
+.short-description {
     text-align: justify;
 }
-.product-list img{
-    border-radius: 5%;}
-.product_description{
+
+.product-list img {
+    border-radius: 5%;
+}
+
+.product_description {
     font-size: 14px;
     max-width: 200px;
     display: flex;
-    justify-content:space-around;
+    justify-content: space-around;
     flex-direction: column;
 }
-.product_description p{
+
+.product_description p {
     text-transform: lowercase;
 
 }
-.product_price{
+
+.product_price {
     font-size: 15px;
 }
 
-    /* sections */
-section{
+/* sections */
+section {
     padding-top: 5vw;
 }
-h1,h2{color: green;}
+
+h1,
+h2 {
+    color: green;
+}
+
 /*footer */
 footer {
     border-top: 1px solid #d6d6d6;
     border-top-style: solid;
     border-top-color: green;
-    background-color:white;
+    background-color: white;
     padding: 25px;
     height: 15%;
-  }
-  
-  footer p {
+}
+
+footer p {
     margin: 0px;
     text-align: center;
     color: black;
-  }
-  #footer_wrap{
+}
+
+#footer_wrap {
     display: flex;
-    justify-content:space-around;
-  }
-ion-icon{
+    justify-content: space-around;
+}
+
+ion-icon {
     color: black;
 }
+
 /* DISPLAY SET UP */
-@media screen and (max-width: 480px){
+@media screen and (max-width: 480px) {
+
     /* index responsive */
-    .nav_item{
+    .nav_item {
         padding: 0 5px;
     }
-    .sec2_wrap{
+
+    .sec2_wrap {
         flex-direction: column;
         align-items: center;
         height: 150vw;
     }
-    .container{
+
+    .container {
         width: 90%;
         height: 50%;
     }
-    .guide_wrap{
+
+    .guide_wrap {
         padding: 10px;
         flex-direction: column;
         width: 90%;
     }
-    .guide{
+
+    .guide {
         align-items: center;
         width: 100%;
         text-align: center;
     }
-    .guide img{
+
+    .guide img {
         height: 200px;
         width: 90%;
     }
+
     /* NAV BAR STYLE */
-    .nav_bar{
+    .nav_bar {
         height: 20vw;
         flex-direction: column;
         align-items: normal;
-        }
-    .nav_item{
+    }
+
+    .nav_item {
         font-size: medium;
 
     }
-    .nav_item h1{
+
+    .nav_item h1 {
         font-size: larger;
         inline-size: max-content;
     }
-    .sidenav li{
+
+    .sidenav li {
         font-size: small;
         padding: 1vw 2vw;
     }
+
     /* benefits */
-    .video iframe{
+    .video iframe {
         width: 100%;
         height: 100%;
     }
+
     section {
         padding: 0;
     }
-    .benefits_container{
+
+    .benefits_container {
         width: 85vw;
         text-align: center;
         align-items: center;
     }
-    .contact_us{
+
+    .contact_us {
         width: 100vw;
     }
-    .banner{
+
+    .banner {
         width: 100vw;
         height: 50px;
     }
-    .benefits_container img{
+
+    .benefits_container img {
         width: 70vw;
         height: 50vw;
     }
+
     /* contact us style */
-    .form_box2{
+    .form_box2 {
         width: 80vw;
     }
+
     /* MENU  */
-    .menu_2col{
+    .menu_2col {
         justify-content: center;
 
     }
-    .product_item{
-        margin:0px;
+
+    .product_item {
+        margin: 0px;
     }
-    h1,h2{
+
+    h1,
+    h2 {
         font-size: 1.2em;
     }
-    .div404{
+
+    .div404 {
         font-size: 5em;
 
     }
 }
+
 /* 404 page style */
 .div404 {
     color: #fff;
     font-size: 10em;
     font-weight: bold;
     font-family: Helvetica;
-    text-shadow: 
-      0 1px 0 #ccc, 
-      0 2px 0 #c9c9c9, 
-      0 3px 0 #bbb, 
-      0 4px 0 #b9b9b9, 
-      0 5px 0 #aaa, 
-      0 6px 1px rgba(0,0,0,.1), 
-      0 0 5px rgba(0,0,0,.1), 
-      0 1px 3px rgba(0,0,0,.3), 
-      0 3px 5px rgba(0,0,0,.2), 
-      0 5px 10px rgba(0,0,0,.25), 
-      0 10px 10px rgba(0,0,0,.2), 
-      0 20px 20px rgba(0,0,0,.15);
+    text-shadow:
+        0 1px 0 #ccc,
+        0 2px 0 #c9c9c9,
+        0 3px 0 #bbb,
+        0 4px 0 #b9b9b9,
+        0 5px 0 #aaa,
+        0 6px 1px rgba(0, 0, 0, .1),
+        0 0 5px rgba(0, 0, 0, .1),
+        0 1px 3px rgba(0, 0, 0, .3),
+        0 3px 5px rgba(0, 0, 0, .2),
+        0 5px 10px rgba(0, 0, 0, .25),
+        0 10px 10px rgba(0, 0, 0, .2),
+        0 20px 20px rgba(0, 0, 0, .15);
     text-align: center;
     padding-top: 10%;
-  }
-  
+}

@@ -164,8 +164,8 @@ The WebPage was divided in 4 pages:
 The page is divided in 3 HTML documents first is a home page in where the user can apreciate a image to make you feel how taste is it 
 the Navigation bar was developed in 2 divisions where contain the items to navigate under the page  
 
-![navigationbar](./assets/IMG/bar_1.jpeg)  
-### Benefits fluid design
+![navigationbar](./assets/IMG/bar_1.png)  
+### Benefits design
 
 continue with a slogan for the "restaurant" and a some words to make feel good the guess and some specialitys to open the mind of the readers
 and some arguments and bases of the diet second is a little introduction to vegetarian and benefits
@@ -183,21 +183,74 @@ in a relaxing design to dont disturb the writer in where the user can feel quiet
 the footer was created to be fluid with the other colors and share some social medias about by the restaurant.
 the proyect was developed in HTML & CSS using visual studio code, the code was tested with W3C
 every single html file is divided in sections where you have wrappers to be organized and easy future changes.  
-![footer](./assets/IMG/footer.jpeg)  
+![footer](./assets/IMG/footer.png)  
 
 ### Responsive Design
-
 
 Was modified and adapted to the Iphone 5 screen  
 you can apreciate how looks in the picture  
 
-![responsive](./assets/IMG/responsive.jpeg)  
+![responsiveweb](assets/IMG/responsiveweb.jpeg) 
+### Menu
 
+Simply and easy use page with the most important indicators like description buttom to buy title and a picture where the clients can know what they will eat
+
+![Menu](assets/IMG/menu.png) 
 ### Video 
 
 The video used for the curious clients who want to know more about the diet 
 
-![video](assets/IMG/video.jpeg)  
+![video](assets/IMG/video.png)  
+### Map and location
+
+The google map location and phone to contact us.
+
+![map](assets/IMG/map.png) 
+## Validation
+
+### HTML Validation
+
+The Validator used was W3C Service validate the HTML of the webpage, 
+the entire project pass with no errors and warning by use of the some tools.
+<details><summary>Home</summary>
+<img src="assets/IMG/validator_index.jpeg">
+</details>
+<details><summary>Benefits</summary>
+<img src="assets/IMG/validator_benefits.jpeg">
+</details>
+<details><summary>Contact Us</summary>
+<img src="assets/IMG/validator_contactus.jpeg">
+</details>
+<details><summary>Menu</summary>
+<img src="assets/IMG/validator_about.jpeg">
+</details>
+
+### CSS Validation
+
+W3C's primary activity is to develop protocols and guidelines that guarantee long-term growth for the Web.
+W3C's  determine key parts of what makes the World Wide Web activity.
+W3C was used to validate the css style of the whole page
+
+<details><summary>style.css</summary>
+<img src="assets/IMG/validator_css.png">
+</details>
+
+### Accessibility
+
+The WAVE WebAIM web accessibility evaluation tool was used to ensure the website met high accessibility standards. All pages pass with 0 errors.
+<details><summary>Home</summary>
+<img src="assets/IMG/access_index.png">
+</details>
+<details><summary>Benefits</summary>
+<img src="assets/IMG/acces_benefits.png">
+</details>
+<details><summary>Contact Us</summary>
+<img src="assets/IMG/access_contactus.png">
+</details>
+<details><summary>Menu</summary>
+<img src="assets/IMG/access_menu.png">
+</details>
+
 <!-- im here -->
 ## __INSTALATION__
 You can download the full code with
@@ -205,6 +258,7 @@ You can download the full code with
 git clone https://github.com/jdhernandezS1/CI_PP1_HB.git
 ```   
 and viwed online in [link_to_page](https://jdhernandezs1.github.io/CI_PP1_HB/index.html)
+
 
 ## Objetives
 - Help the people to be healthy 

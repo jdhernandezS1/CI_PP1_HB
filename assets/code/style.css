@@ -21,6 +21,9 @@ body {
     border-bottom-style: solid;
     border-bottom-color: green;
 }
+.navitem_active{
+    border-bottom: 3px double green;
+}
 
 .sidenav {
     list-style-type: none;

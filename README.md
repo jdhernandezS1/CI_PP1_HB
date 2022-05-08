@@ -2,6 +2,7 @@
 
 
 Code institute Project portfolio 1 Healthy Body **CI_PP1_HB** Is a web page developed to emulate a vegetarian restaurant and create awareness to how we can help the environment with reducing the animal agriculture just eating less meat or not, the second idea is to share how we can be healthy just doing a balanced diet eating more vegges 
+
 ![bar](./assets/IMG/special.jpeg)   
 
 - HTML 
@@ -12,6 +13,7 @@ Code institute Project portfolio 1 Healthy Body **CI_PP1_HB** Is a web page deve
 [1] CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.[2](https://en.wikipedia.org/wiki/CSS)"
 
 ![responsiveweb](assets/IMG/responsiveweb.jpeg) 
+
 [Live web page](https://jdhernandezs1.github.io/CI_PP1_HB/index.html)
 
 
@@ -49,14 +51,14 @@ Code institute Project portfolio 1 Healthy Body **CI_PP1_HB** Is a web page deve
 
 ## Project Goals
 
-### User Goals
+### __User Goals__
 
 - Finding a special restaurant that offers a vegetarian menu.
 - Find a menu clear and listed with prices.
 - Find the location and phone of the restaurant.
 - Find a menu with a clear images that shows the meals.
 - Find some information for the people that want to start a vegetarian diet.
-### Site Owner Goals
+### __Site Owner Goals__
 
 - Improve the business and acquire clients.
 - Provide the information to contact, arrive and explore the restaurant.
@@ -65,14 +67,14 @@ Code institute Project portfolio 1 Healthy Body **CI_PP1_HB** Is a web page deve
 
 ## User Experience
 
-### Target Audience
+### __Target Audience__
 
 - People looking for a different place to have a taste vegetarian diet.
 - Groups of family, friends looking for an eco-friendly place.
 - Groups of people who are different and have special diet.
 - Groups of people following a healthy and fit life.
 
-### User Requrements and Expectations
+### __User Requrements and Expectations__
 
 - A Eco-friendly restaurant who care to the environment.
 - A clear and easy navigation page.
@@ -84,7 +86,7 @@ Code institute Project portfolio 1 Healthy Body **CI_PP1_HB** Is a web page deve
 
 ### User Stories
 
-#### First-time User 
+#### __First-time User__
 
 1. First time user, wants to know more about the vegetarian diet.
 2. First time user, wants to know the prices, ingredients and meals variety.
@@ -92,7 +94,7 @@ Code institute Project portfolio 1 Healthy Body **CI_PP1_HB** Is a web page deve
 4. First time user, wants to let feedback for improving the place that they look for.
 5. First time user, wants to know the benefits of the vegetarian diet.
 
-#### Returning User
+#### __Returning User__
 As a returning user, We want:
 
 6. Find a vegetarian place.
@@ -105,7 +107,7 @@ As a returning user, We want:
 13. See the meals offered.
 14. Know the benefits of the Diet.
 
-#### Site Owner 
+#### __Site Owner__
 As the site owner, we want:
 
 15. Clients who are searching change to a new diet and be healthy.
@@ -115,22 +117,22 @@ As the site owner, we want:
 
 ## Design
 
-### Design Choices
+### __Design Choices__
 The virtual store was designed to make the customer feel that the place is more than a business, where they feel cared for both their health and the environment, leting know the benefits of the diet.
 
-### Colors
+### __Colors__
 
 the color tones were specially chosen to conform to the concept and to a simple and friendly design.
 ![colors](./assets/IMG/colors.png)  
 <br>
 
-### Fonts
+### __Fonts__
 
 Was wanted one friendly font and was finding ROBOTO from GOOGLE is a font that has been used in the smartphones.
 How the most data traffic is from phones and smart devices was used, a typical font used in those platforms. 
 <br>
 
-### Structure
+### __Structure__
 
 Following the theory for UXD (User experience design) the page was structured in a fluent and easy to read, using a structure familiar doing research in the most popular restaurants to know what type of design is using in the modern food pages.
 Was used following colors related with the thematic (vegetarian Diet)
@@ -142,11 +144,11 @@ The WebPage was divided in 4 pages:
 
 ## Technologies Used
 
-### Languages
+### __Languages__
 - HTML5
 - CSS
 
-### Frameworks , Libraries & Tools
+### __Frameworks , Libraries & Tools__
 - Visual Studio Code
 - Git
 - GitHub
@@ -159,59 +161,60 @@ The WebPage was divided in 4 pages:
 
 ## __Features__
 
-### Navigation Bar
+### __Navigation Bar__
 
 The page is divided in 3 HTML documents first is a home page in where the user can apreciate a image to make you feel how taste is it 
 the Navigation bar was developed in 2 divisions where contain the items to navigate under the page  
 
 ![navigationbar](./assets/IMG/bar_1.png)  
-### Benefits design
+### __Benefits design__
 
 continue with a slogan for the "restaurant" and a some words to make feel good the guess and some specialitys to open the mind of the readers
 and some arguments and bases of the diet second is a little introduction to vegetarian and benefits
 
 ![bar_pc_view](./assets/IMG/benefits.jpeg)  
 
-### Form Design
+### __Form Design__
 the next section reports about how the meat production destroy the environment and some illneses
 third is the contact with us to know about the client and how they felt.
 in a relaxing design to dont disturb the writer in where the user can feel quiet to express the ideas.  
 ![comments](./assets/IMG/3.png)
 
-### Footer
+### __Footer__
 
 the footer was created to be fluid with the other colors and share some social medias about by the restaurant.
 the proyect was developed in HTML & CSS using visual studio code, the code was tested with W3C
 every single html file is divided in sections where you have wrappers to be organized and easy future changes.  
 ![footer](./assets/IMG/footer.png)  
 
-### Responsive Design
+### __Responsive Design__
 
 Was modified and adapted to the Iphone 5 screen  
 you can apreciate how looks in the picture  
 
 ![responsiveweb](assets/IMG/responsiveweb.jpeg) 
-### Menu
+### __Menu__
 
 Simply and easy use page with the most important indicators like description buttom to buy title and a picture where the clients can know what they will eat
 
 ![Menu](assets/IMG/menu.png) 
-### Video 
+### __Video__
 
 The video used for the curious clients who want to know more about the diet 
 
 ![video](assets/IMG/video.png)  
-### Map and location
+### __Map and location__
 
 The google map location and phone to contact us.
 
 ![map](assets/IMG/map.png) 
 ## Validation
 
-### HTML Validation
+### __HTML Validation__
 
-The Validator used was W3C Service validate the HTML of the webpage, 
-the entire project pass with no errors and warning by use of the some tools.
+The Validator used was W3C Service to validate the HTML of the webpage, 
+the entire project pass with no errors and warning by use of some tools.
+
 <details><summary>Home</summary>
 <img src="assets/IMG/validator_index.jpeg">
 </details>
@@ -225,19 +228,20 @@ the entire project pass with no errors and warning by use of the some tools.
 <img src="assets/IMG/validator_about.jpeg">
 </details>
 
-### CSS Validation
+### __CSS Validation__
 
 W3C's primary activity is to develop protocols and guidelines that guarantee long-term growth for the Web.
 W3C's  determine key parts of what makes the World Wide Web activity.
-W3C was used to validate the css style of the whole page
+W3C was used to validate the CSS style of the whole page
 
 <details><summary>style.css</summary>
 <img src="assets/IMG/validator_css.png">
 </details>
 
-### Accessibility
+### __Accessibility__
 
 The WAVE WebAIM web accessibility evaluation tool was used to ensure the website met high accessibility standards. All pages pass with 0 errors.
+
 <details><summary>Home</summary>
 <img src="assets/IMG/access_index.png">
 </details>
@@ -298,7 +302,9 @@ This design improve user experience of the most important companies, designers, 
 You can use light-mode-only version, if you are not using light mode and also file size less without dark-mode.
 
 ## __TESTING__
-No errors were returned when passing through the official W3C validator and advertences for use of name CSS no errors were found when passing through the official (Jigsaw) validator
+
+### JIGSAW
+No errors were returned of CSS file when passing through the official W3C validator Jigsaw validator
 Deployment
 was design in html and css using the concepts and applying to the entire design.
 was tested with wc3 compilator environment were used some pictures and some information with the references to let know the user are not our images

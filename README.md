@@ -30,7 +30,6 @@ Code institute Project portfolio 1 Healthy Body **CI_PP1_HB** Is a web page deve
     2. [Colour](#colours)
     3. [Fonts](#fonts)
     4. [Structure](#structure)
-    5. [Wireframes](#wireframes)
 4. [Technologies Used](#technologies-used)
     1. [Languages](#languages)
     2. [Frameworks & Tools](#frameworks-&-tools)
@@ -119,44 +118,44 @@ As the site owner, we want:
 ### Design Choices
 The virtual store was designed to make the customer feel that the place is more than a business, where they feel cared for both their health and the environment, leting know the benefits of the diet.
 
-### Colours
+### Colors
 
 the color tones were specially chosen to conform to the concept and to a simple and friendly design.
 ![colors](./assets/IMG/colors.png)  
-
 <br>
 
-<!-- im here -->
-## __INSTALATION__
-You can download the full code with
-```bash
-git clone https://github.com/jdhernandezS1/CI_PP1_HB.git
-```   
-and viwed online in [link_to_page](https://jdhernandezs1.github.io/CI_PP1_HB/index.html)
+### Fonts
 
-## Objetives
-- Help the people to be healthy 
-- introduce to a new diet or a new life style
-- show the options available 
-- show statics and studies to support our ideas
-- make feel good the readers during the visit 
+Was wanted one friendly font and was finding ROBOTO from GOOGLE is a font that has been used in the smartphones.
+How the most data traffic is from phones and smart devices was used, a typical font used in those platforms. 
+<br>
 
-## __Built With__
+### Structure
 
-The softwares language and recomended IDE used to build the project.
+Following the theory for UXD (User experience design) the page was structured in a fluent and easy to read, using a structure familiar doing research in the most popular restaurants to know what type of design is using in the modern food pages.
+Was used following colors related with the thematic (vegetarian Diet)
+The WebPage was divided in 4 pages:
+- The home page where is located a little introduction information, some star meals and the service we offer like delivery included.
+- A page to describe the benefits of do a vegetarian diet in where the people can know how they help the environment and they self (them healthy).
+- A page to show the main information of the restaurant to be contacted like location phone and a little form to acquire some info about the experience.
+- The Last one is the menu easy and friendly with the people that don't use a lot the technical devices with a simple design with description name and price.
 
-* [HTML](https://www.w3schools.com/html/)
-* [CSS](https://www.w3schools.com/css/default.asp)	
-* [visual studio code](https://visualstudio.microsoft.com/es/)
-* [Git](https://git-scm.com/)
-* [GitHub](https://github.com/)
+## Technologies Used
 
+### Languages
+- HTML5
+- CSS
 
-## __UXD__
-Using the user experience design(UX or UE).
-UXD is how a user interacts with and experiences a product, system or service.
-It includes a person's perceptions of utility, ease of use, and efficiency. 
-This design improve user experience of the most important companies, designers, and creators when creating and refining products because negative user experience can diminish the use of the product and, therefore, any desired positive impacts; conversely, designing toward profitability often conflicts with ethical user experience objectives and even causes harm. User experience is subjective. However, the attributes that make up the user experience are objective. 
+### Frameworks , Libraries & Tools
+- Visual Studio Code
+- Git
+- GitHub
+- Gitpod
+- Balsamiq
+- Google Fonts
+- W3schools Colors
+- Favicon.io
+- ion icons
 
 ## __Features__
 
@@ -164,12 +163,13 @@ This design improve user experience of the most important companies, designers, 
 
 The page is divided in 3 HTML documents first is a home page in where the user can apreciate a image to make you feel how taste is it 
 the Navigation bar was developed in 2 divisions where contain the items to navigate under the page  
+
 ![navigationbar](./assets/IMG/bar_1.jpeg)  
 ### Benefits fluid design
 
 continue with a slogan for the "restaurant" and a some words to make feel good the guess and some specialitys to open the mind of the readers
-and some arguments and bases of the diet
-second is a little introduction to vegetarian and benefits
+and some arguments and bases of the diet second is a little introduction to vegetarian and benefits
+
 ![bar_pc_view](./assets/IMG/benefits.jpeg)  
 
 ### Form Design
@@ -198,6 +198,40 @@ you can apreciate how looks in the picture
 The video used for the curious clients who want to know more about the diet 
 
 ![video](assets/IMG/video.jpeg)  
+<!-- im here -->
+## __INSTALATION__
+You can download the full code with
+```bash
+git clone https://github.com/jdhernandezS1/CI_PP1_HB.git
+```   
+and viwed online in [link_to_page](https://jdhernandezs1.github.io/CI_PP1_HB/index.html)
+
+## Objetives
+- Help the people to be healthy 
+- introduce to a new diet or a new life style
+- show the options available 
+- show statics and studies to support our ideas
+- make feel good the readers during the visit 
+
+## __Built With__
+
+The softwares language and recomended IDE used to build the project.
+
+* [HTML](https://www.w3schools.com/html/)
+* [CSS](https://www.w3schools.com/css/default.asp)	
+* [visual studio code](https://visualstudio.microsoft.com/es/)
+* [Git](https://git-scm.com/)
+* [GitHub](https://github.com/)
+
+
+
+## __UXD__
+Using the user experience design(UX or UE).
+UXD is how a user interacts with and experiences a product, system or service.
+It includes a person's perceptions of utility, ease of use, and efficiency. 
+This design improve user experience of the most important companies, designers, and creators when creating and refining products because negative user experience can diminish the use of the product and, therefore, any desired positive impacts; conversely, designing toward profitability often conflicts with ethical user experience objectives and even causes harm. User experience is subjective. However, the attributes that make up the user experience are objective. 
+
+
 # __Browsers support__
 ## Browsers support
 

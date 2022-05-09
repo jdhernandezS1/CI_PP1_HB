@@ -215,16 +215,16 @@ The google map location and phone to contact us.
 The Validator used was W3C Service to validate the HTML of the webpage, 
 the entire project pass with no errors and warning by use of some tools.
 
-<details><summary>Home</summary>
+<details><summary>Home Validation</summary>
 <img src="assets/IMG/validator_index.jpeg">
 </details>
-<details><summary>Benefits</summary>
+<details><summary>Benefits Validation</summary>
 <img src="assets/IMG/validator_benefits.jpeg">
 </details>
-<details><summary>Contact Us</summary>
+<details><summary>Contact Us Validation</summary>
 <img src="assets/IMG/validator_contactus.jpeg">
 </details>
-<details><summary>Menu</summary>
+<details><summary>Menu Validation</summary>
 <img src="assets/IMG/validator_about.jpeg">
 </details>
 
@@ -242,17 +242,34 @@ W3C was used to validate the CSS style of the whole page
 
 The WAVE WebAIM web accessibility evaluation tool was used to ensure the website met high accessibility standards. All pages pass with 0 errors.
 
-<details><summary>Home</summary>
+<details><summary>Home accessibility</summary>
 <img src="assets/IMG/access_index.png">
 </details>
-<details><summary>Benefits</summary>
+<details><summary>Benefits accessibility</summary>
 <img src="assets/IMG/acces_benefits.png">
 </details>
-<details><summary>Contact Us</summary>
+<details><summary>Contact Us accessibility</summary>
 <img src="assets/IMG/access_contactus.png">
 </details>
-<details><summary>Menu</summary>
+<details><summary>Menu accessibility</summary>
 <img src="assets/IMG/access_menu.png">
+</details>
+
+### Performance 
+
+The performance test of the website was make by Google Lighthouse in Google Chrome Developer Tools: 
+
+<details><summary>Home performance</summary>
+<img src="assets/IMG/lighthouse.png">
+</details>
+<details><summary>Benefits performance</summary>
+<img src="assets/IMG/lighthouse.png">
+</details>
+<details><summary>Contact Us performance</summary>
+<img src="assets/IMG/lighthouse.png">
+</details>
+<details><summary>Menu performance</summary>
+<img src="assets/IMG/lighthouse.png">
 </details>
 
 <!-- im here -->

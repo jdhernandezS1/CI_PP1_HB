@@ -1,6 +1,6 @@
 /* Google fonts  */
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Macondo&display=swap');
 /* GOOGLE */
 body {
     margin: 0;
@@ -8,6 +8,7 @@ body {
 }
 
 /* HTML STYLE */
+/* bar style */
 .nav_bar {
     display: flex;
     flex-direction: row;
@@ -58,6 +59,9 @@ body {
     padding: 0 30px;
 }
 
+.main_title{
+    font-family: 'Macondo', cursive;
+}
 .nav_wrapper {
     font-size: x-large;
     display: flex;

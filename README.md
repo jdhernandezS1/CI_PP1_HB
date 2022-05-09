@@ -255,21 +255,21 @@ The WAVE WebAIM web accessibility evaluation tool was used to ensure the website
 <img src="assets/IMG/access_menu.png">
 </details>
 
-### Performance 
+### __Performance__
 
 The performance test of the website was make by Google Lighthouse in Google Chrome Developer Tools: 
 
 <details><summary>Home performance</summary>
-<img src="assets/IMG/lighthouse.png">
+<img src="assets/IMG/lighthouse_index.png">
 </details>
 <details><summary>Benefits performance</summary>
-<img src="assets/IMG/lighthouse.png">
+<img src="assets/IMG/lighthouse_benefits.png">
 </details>
 <details><summary>Contact Us performance</summary>
-<img src="assets/IMG/lighthouse.png">
+<img src="assets/IMG/lighthouse_contact.png">
 </details>
 <details><summary>Menu performance</summary>
-<img src="assets/IMG/lighthouse.png">
+<img src="assets/IMG/lighthouse_menu.png">
 </details>
 
 <!-- im here -->

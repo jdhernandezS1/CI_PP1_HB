@@ -87,12 +87,13 @@ Code institute Project portfolio 1 Healthy Body **CI_PP1_HB** Is a web page deve
 ### User Stories
 
 #### __First-time User__
+First time user:
 
-1. First time user, wants to know more about the vegetarian diet.
-2. First time user, wants to know the prices, ingredients and meals variety.
-3. First time user, wants to know where the restaurant is located and what the contact is for delivery and reservations.
-4. First time user, wants to let feedback for improving the place that they look for.
-5. First time user, wants to know the benefits of the vegetarian diet.
+1. wants to know more about the vegetarian diet.
+2. wants to know the prices, ingredients and meals variety.
+3. wants to know where the restaurant is located and what the contact is for delivery and reservations.
+4. wants to let feedback for improving the place that they look for.
+5. wants to know more information about the vegetarian diet.
 
 #### __Returning User__
 As a returning user, We want:
@@ -257,7 +258,7 @@ The WAVE WebAIM web accessibility evaluation tool was used to ensure the website
 
 ### __Performance__
 
-The performance test of the website was make by Google Lighthouse in Google Chrome Developer Tools: 
+ The performance test of the website was make by Google Lighthouse in Google Chrome Developer Tools: 
 
 <details><summary>Home performance</summary>
 <img src="assets/IMG/lighthouse_index.png">
@@ -270,6 +271,32 @@ The performance test of the website was make by Google Lighthouse in Google Chro
 </details>
 <details><summary>Menu performance</summary>
 <img src="assets/IMG/lighthouse_menu.png">
+</details>
+
+### Browsers support
+
+| [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" alt="IE / Edge" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>IE / Edge | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" alt="Firefox" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>Firefox | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" alt="Chrome" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>Chrome | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" alt="Safari" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>Safari | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" alt="Opera" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>Opera |
+| --------- | --------- | --------- | --------- | --------- |
+| IE11, Edge| last 2 versions| last 2 versions| last 2 versions| last 2 versions
+
+### Testing user stories
+
+1. wants to know more about the vegetarian diet.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Benefits Information | Navigate to benefits page, locate the Information | Text with the information that they are interesting | Works as well |
+| Video shared to complete the information | Go to the end to find it | Find a video where the client can learn more about the diet | Works as well |
+
+2. wants to know the prices, ingredients and meals variety.
+3. wants to know where the restaurant is located and what the contact is for delivery and reservations.
+4. wants to let feedback for improving the place that they look for.
+5. wants to know more information about the vegetarian diet.
+
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-1v1-12.jpg">
+<img src="docs/user-story-testing/user-story-1v2.jpg">
 </details>
 
 <!-- im here -->
@@ -307,12 +334,6 @@ It includes a person's perceptions of utility, ease of use, and efficiency.
 This design improve user experience of the most important companies, designers, and creators when creating and refining products because negative user experience can diminish the use of the product and, therefore, any desired positive impacts; conversely, designing toward profitability often conflicts with ethical user experience objectives and even causes harm. User experience is subjective. However, the attributes that make up the user experience are objective. 
 
 
-# __Browsers support__
-## Browsers support
-
-| [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" alt="IE / Edge" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>IE / Edge | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" alt="Firefox" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>Firefox | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" alt="Chrome" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>Chrome | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" alt="Safari" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>Safari | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari-ios/safari-ios_48x48.png" alt="iOS Safari" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>iOS Safari | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" alt="Opera" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>Opera |
-| --------- | --------- | --------- | --------- | --------- | --------- |
-| IE11, Edge| last 2 versions| last 2 versions| last 2 versions| last 2 versions| last 2 versions
 
 ## __Dark Mode (Only light Mode)__
 

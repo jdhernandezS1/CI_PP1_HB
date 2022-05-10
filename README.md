@@ -18,7 +18,7 @@ Code institute Project portfolio 1 Healthy Body **CI_PP1_HB** Is a web page deve
 
 
 
-## Table of Content
+## __Table of Content__
 
 1. [Project Goals](#project-goals)
     1. [User Goals](#user-goals)
@@ -47,9 +47,12 @@ Code institute Project portfolio 1 Healthy Body **CI_PP1_HB** Is a web page deve
 8. [Bugs](#Bugs)
 9. [Deployment](#deployment)
 10. [Credits](#credits)
-11. [Acknowledgements](#acknowledgements)
+11. [Contributing](#contributing)
+12. [License](#license)
+13. [Installation](#installation)
+14. [Acknowledgements](#acknowledgements)
 
-## Project Goals
+## __Project Goals__
 
 ### __User Goals__
 
@@ -65,7 +68,7 @@ Code institute Project portfolio 1 Healthy Body **CI_PP1_HB** Is a web page deve
 - Provide the information for the newbies according to the lifestyle.
 - Increase the sales by a clear menu and clear market.
 
-## User Experience
+## __User Experience__
 
 ### __Target Audience__
 
@@ -84,7 +87,7 @@ Code institute Project portfolio 1 Healthy Body **CI_PP1_HB** Is a web page deve
 - Easy information let the user know all the menu and meals available.
 - Easy Information by the people that don't have a lot of knowledge of a vegetarian diet.
 
-### User Stories
+### __User Stories__
 
 #### __First-time User__
 First time user:
@@ -116,7 +119,7 @@ As the site owner, we want:
 17. Easy way to contact us and arrive to the restaurant.
 18. Make feel the clients a place who care about them.
 
-## Design
+## __Design__
 
 ### __Design Choices__
 The virtual store was designed to make the customer feel that the place is more than a business, where they feel cared for both their health and the environment, leting know the benefits of the diet.
@@ -143,7 +146,7 @@ The WebPage was divided in 4 pages:
 - A page to show the main information of the restaurant to be contacted like location phone and a little form to acquire some info about the experience.
 - The Last one is the menu easy and friendly with the people that don't use a lot the technical devices with a simple design with description name and price.
 
-## Technologies Used
+## __Technologies Used__
 
 ### __Languages__
 - HTML5
@@ -209,7 +212,7 @@ The video used for the curious clients who want to know more about the diet
 The google map location and phone to contact us.
 
 ![map](assets/IMG/map.png) 
-## Validation
+## __Validation__
 
 ### __HTML Validation__
 
@@ -273,49 +276,111 @@ The WAVE WebAIM web accessibility evaluation tool was used to ensure the website
 <img src="assets/IMG/lighthouse_menu.png">
 </details>
 
-### Browsers support
+### __Browsers support__
 
 | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" alt="IE / Edge" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>IE / Edge | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" alt="Firefox" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>Firefox | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" alt="Chrome" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>Chrome | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" alt="Safari" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>Safari | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" alt="Opera" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>Opera |
 | --------- | --------- | --------- | --------- | --------- |
 | IE11, Edge| last 2 versions| last 2 versions| last 2 versions| last 2 versions
 
-### Testing user stories
+### __Testing user stories__
 
 1. wants to know more about the vegetarian diet.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Benefits Information | Navigate to benefits page, locate the Information | Text with the information that they are interesting | Works as well |
+| Benefits Information | Navigate to benefit page, locate the Information | Text with the information that they are interesting | Works as well |
 | Video shared to complete the information | Go to the end to find it | Find a video where the client can learn more about the diet | Works as well |
-
-2. wants to know the prices, ingredients and meals variety.
-3. wants to know where the restaurant is located and what the contact is for delivery and reservations.
-4. wants to let feedback for improving the place that they look for.
-5. wants to know more information about the vegetarian diet.
-
-
-<details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/user-story-1v1-12.jpg">
-<img src="docs/user-story-testing/user-story-1v2.jpg">
+<details><summary>Benefits Page</summary>
+<img src="assets/IMG/userstories_benefits.png">
+</details>
+<details><summary>Information</summary>
+<img src="assets/IMG/userstories_benefits2.png">
+</details>
+<details><summary>Video</summary>
+<img src="assets/IMG/userstories_benefits3.png">
 </details>
 
-<!-- im here -->
-## __INSTALATION__
-You can download the full code with
-```bash
-git clone https://github.com/jdhernandezS1/CI_PP1_HB.git
-```   
-and viwed online in [link_to_page](https://jdhernandezs1.github.io/CI_PP1_HB/index.html)
+2. wants to know the prices, ingredients and meals variety.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Menu structure | Navigate to menu page, locate the menu | Table with the menu options | Works as well |
+| Items with information price and option to buy| Explore the menu | Items with description price and buy button | Works as well |
+
+<details><summary>Menu page</summary>
+<img src="assets/IMG/userstories_menu.png">
+</details>
+<details><summary>Menu items</summary>
+<img src="assets/IMG/userstories_menuitem.png">
+</details>
+
+3. wants to know where the restaurant is located and what the contact is for delivery and reservations.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Restaurant Location| Navigate to Contact US page, Locate the info | Map | Works as well |
+| Restaurant information | Find the information | Phone and direction | Works as well |
+
+<details><summary>Contact Us</summary>
+<img src="assets/IMG/userstories_contact_us.png">
+</details>
+<details><summary>Restaurant Information</summary>
+<img src="assets/IMG/userstories_aboutInformation.png">
+</details>
+<details><summary>MAP</summary>
+<img src="assets/IMG/userstories_aboutmap.png">
+</details>
+
+4. wants to let feedback for improving the place that they look for.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Feedback Form| Form to submit their opinion | Form | Works as well |
+| Form structure | Name, date and opinion | Fill areas | Works as well |
+<details><summary>FORM</summary>
+<img src="assets/IMG/userstories_Form.png">
+</details>
+
+5. wants basic diet information.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Basic information| Text with that| Text and graphics | Works as well |
+<details><summary>FORM</summary>
+<img src="assets/IMG/userstories_startinfo.png">
+</details>
+
+## __Bugs__
+
+| **Bug** | **Fix** |
+| ----------- | ----------- |
+| Superposition | up priority of z-index |
+|short Screen size items | Set a % size |
+
+## __Deployment__
+
+The deployement of the website was by using GitHub Pages following the steps:
+1. In the settings of repository in GITHUB page.
+2. On the menu in the section code and automation, Pages.
+3. Select main branch in the selector in source.
+4. If all before was did as well you can see Your site is published with your "url"
+
+## __Credits__
+
+- Google apis for fonts and maps : fonts.googleapis.com
+- icons source : https://ionic.io/ionicons
+- https://www.w3schools.com  
+### __Information__
+- vegetarian cooking by Jerónimo Yagüe Calvo 2006. 
+
+### __Code__
+
+In order how was used:
+- GITHUB to create the repository.
+- Visual Studio Code by develop the HTML, CSS and Code 404 Page.
 
 
-## Objetives
-- Help the people to be healthy 
-- introduce to a new diet or a new life style
-- show the options available 
-- show statics and studies to support our ideas
-- make feel good the readers during the visit 
-
-## __Built With__
+#### __Built With__
 
 The softwares language and recomended IDE used to build the project.
 
@@ -326,42 +391,13 @@ The softwares language and recomended IDE used to build the project.
 * [GitHub](https://github.com/)
 
 
+## __Acknowledgements__
 
-## __UXD__
-Using the user experience design(UX or UE).
-UXD is how a user interacts with and experiences a product, system or service.
-It includes a person's perceptions of utility, ease of use, and efficiency. 
-This design improve user experience of the most important companies, designers, and creators when creating and refining products because negative user experience can diminish the use of the product and, therefore, any desired positive impacts; conversely, designing toward profitability often conflicts with ethical user experience objectives and even causes harm. User experience is subjective. However, the attributes that make up the user experience are objective. 
+Cordially thanks to: 
 
-
-
-## __Dark Mode (Only light Mode)__
-
-You can use light-mode-only version, if you are not using light mode and also file size less without dark-mode.
-
-## __TESTING__
-
-### JIGSAW
-No errors were returned of CSS file when passing through the official W3C validator Jigsaw validator
-Deployment
-was design in html and css using the concepts and applying to the entire design.
-was tested with wc3 compilator environment were used some pictures and some information with the references to let know the user are not our images
-<details><summary>Index</summary>
-<img src="assets/IMG/checks.jpeg">
-</details>
-<details><summary>About</summary>
-<img src="assets/IMG/checks2.jpeg">
-</details>
-<details><summary>Benefits</summary>
-<img src="assets/IMG/checks3.jpeg">
-</details>
-<details><summary>Contact us</summary>
-<img src="assets/IMG/about_check.jpeg">
-</details>
-<details><summary>Style</summary>
-<img src="assets/IMG/checks4.jpeg">
-</details>
-
+- HashEm to bless me.
+- My mentor Mo Shami for his support and Professional advices.
+- My Family to support me.
 ## __Contributing__
 
 Please read through our contributing guidelines, every pull request has been notified to be able to push code included 
@@ -373,12 +409,11 @@ Please read through our contributing guidelines, every pull request has been not
 - CI_PP1_HB is an open source project by [CI_PP1_HB](https://github.com/jdhernandezS1/CI_PP1_HB) that is licensed under [ops](https://opensource.org/).
 - CI_PP1_HB reserves the right to change the license of future releases.
 
-## __Credits__
+## __Installation__
+You can download the full code with
+```bash
+git clone https://github.com/jdhernandezS1/CI_PP1_HB.git
+```   
+and viwed online in [link_to_page](https://jdhernandezs1.github.io/CI_PP1_HB/index.html)
 
--Google apis for fonts and maps : fonts.googleapis.com
-- icons source : https://ionic.io/ionicons
-- https://www.w3schools.com  
-## __BUGS FIXED__
 
-- Superposition: z-index for the nav bar because the ion icons and navigation bar had different z level
-was solved with change priority

@@ -1,7 +1,7 @@
 # __CI_PP1_HB__
 
 
-Code institute Project portfolio 1 Healthy Body **CI_PP1_HB** Is a web page developed to emulate a vegetarian restaurant and create awareness to how we can help the environment with reducing the animal agriculture just eating less meat or not, the second idea is to share how we can be healthy just doing a balanced diet eating more vegges 
+Code institute Project portfolio 1 Healthy Body **CI_PP1_HB** Is a web page developed to emulate a vegetarian restaurant and create awareness to how we can help the environment and ourself reducing the animal agriculture just eating less meat or not, the idea is to share the benefits and how we can do a balanced diet eating more vegges. 
 
 ![bar](./assets/IMG/special.jpeg)   
 
@@ -25,26 +25,25 @@ Code institute Project portfolio 1 Healthy Body **CI_PP1_HB** Is a web page deve
     2. [Site Owner Goals](#site-owner-goals)
 2. [User Experience](#user-experience)
     1. [Target Audience](#target-audience)
-    2. [User Requirements and Expectations](#user-requrements-and-expectations)
+    2. [User Requirements and Expectations](#user-requirements-and-expectations)
     3. [User Stories](#user-stories)
 3. [Design](#design)
     1. [Design Choices](#design-choices)
-    2. [Colour](#colours)
+    2. [Colour](#colour)
     3. [Fonts](#fonts)
     4. [Structure](#structure)
 4. [Technologies Used](#technologies-used)
     1. [Languages](#languages)
-    2. [Frameworks & Tools](#frameworks-&-tools)
+    2. [Frameworks Libraries Tools](#frameworks-libraries-tools)
 5. [Features](#features)
 6. [Testing](#validation)
-    1. [HTML Validation](#HTML-validation)
-    2. [CSS Validation](#CSS-validation)
+    1. [HTML Validation](#html-validation)
+    2. [CSS Validation](#css-validation)
     3. [Accessibility](#accessibility)
     4. [Performance](#performance)
-    5. [Device testing](#performing-tests-on-various-devices)
-    6. [Browser compatibility](#browser-compatability)
-    7. [Testing user stories](#testing-user-stories)
-8. [Bugs](#Bugs)
+    5. [Browsers support](#browsers-support)
+    6. [Testing user stories](#testing-user-stories)
+8. [Bugs](#bugs)
 9. [Deployment](#deployment)
 10. [Credits](#credits)
 11. [Contributing](#contributing)
@@ -58,26 +57,28 @@ Code institute Project portfolio 1 Healthy Body **CI_PP1_HB** Is a web page deve
 
 - Finding a special restaurant that offers a vegetarian menu.
 - Find a menu clear and listed with prices.
-- Find the location and phone of the restaurant.
 - Find a menu with a clear images that shows the meals.
-- Find some information for the people that want to start a vegetarian diet.
+- Find the location and phone of the restaurant.
+- Find some information util to the people that want to start a vegetarian diet.
 ### __Site Owner Goals__
 
 - Improve the business and acquire clients.
-- Provide the information to contact, arrive and explore the restaurant.
+- Provide the information to contact, arrive and buy in the restaurant.
 - Provide the information for the newbies according to the lifestyle.
 - Increase the sales by a clear menu and clear market.
+- Care the environment and share the Vegetarian benefits.
 
 ## __User Experience__
 
 ### __Target Audience__
 
+- Groups of family, friends, people looking for an eco-friendly place.
 - People looking for a different place to have a taste vegetarian diet.
-- Groups of family, friends looking for an eco-friendly place.
-- Groups of people who are different and have special diet.
-- Groups of people following a healthy and fit life.
+- People who have vegetarian diet.
+- People following a healthy and fit life.
+- People allergic to certain animal products
 
-### __User Requrements and Expectations__
+### __User Requirements and Expectations__
 
 - A Eco-friendly restaurant who care to the environment.
 - A clear and easy navigation page.
@@ -124,7 +125,7 @@ As the site owner, we want:
 ### __Design Choices__
 The virtual store was designed to make the customer feel that the place is more than a business, where they feel cared for both their health and the environment, leting know the benefits of the diet.
 
-### __Colors__
+### __Colour__
 
 the color tones were specially chosen to conform to the concept and to a simple and friendly design.
 ![colors](./assets/IMG/colors.png)  
@@ -152,7 +153,7 @@ The WebPage was divided in 4 pages:
 - HTML5
 - CSS
 
-### __Frameworks , Libraries & Tools__
+### __Frameworks Libraries Tools__
 - Visual Studio Code
 - Git
 - GitHub

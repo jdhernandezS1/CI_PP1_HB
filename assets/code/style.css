@@ -99,12 +99,12 @@ body {
     padding: 1vw;
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: space-evenly;
     text-align: center;
 }
 
 .container {
-    width: 30%;
+    width: 300px;
     padding: 1vw;
     border: solid green 1px;
     background-color: rgba(0, 128, 0, 0.163);
@@ -137,8 +137,8 @@ body {
 .dish_wrap img {
     border-radius: 20%;
     align-items: center;
-    height: 20vw;
-    width: 20vw;
+    height: 200px;
+    width: 230px;
 }
 
 .divisor {
@@ -317,16 +317,13 @@ hr {
     text-align: center;
     width: 100%;
     align-items: center;
+    margin-top: auto;
 }
 
-.menu h1,
-h2,
-h3 {
-    background-color: rgb(255, 255, 255);
-    color: black;
-    width: 100%;
+.menu_titles{
+    color: white;
+    margin: 20px;
 }
-
 .menu_2col {
     list-style-type: none;
     display: flex;
@@ -427,7 +424,6 @@ ion-icon {
     .sec2_wrap {
         flex-direction: column;
         align-items: center;
-        height: 150vw;
     }
 
     .container {
@@ -514,7 +510,9 @@ ion-icon {
         justify-content: center;
 
     }
-
+    .menu{
+        margin-top: 18vw;
+    }
     .product_item {
         margin: 0px;
     }

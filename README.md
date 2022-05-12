@@ -328,20 +328,15 @@ The WAVE WebAIM web accessibility evaluation tool was used to ensure the website
 
 ### __Testing user stories__
 
+
+
 1. wants to know more about the vegetarian diet.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Benefits Information | Navigate to benefit page, locate the Information | Text with the information that they are interesting | Works as well |
-| Video shared to complete the information | Go to the end to find it | Find a video where the client can learn more about the diet | Works as well |
-<details><summary>Benefits Page</summary>
-<img src="assets/images/userstories_benefits.png">
-</details>
-<details><summary>Information</summary>
-<img src="assets/images/userstories_benefits2.png">
-</details>
-<details><summary>Video</summary>
-<img src="assets/images/userstories_benefits3.png">
+| Basic information| Text with that| Text and graphics | Works as well |
+<details><summary>Basic_information</summary>
+<img src="assets/images/userstories_startinfo.png">
 </details>
 
 2. wants to know the prices, ingredients and meals variety.
@@ -359,6 +354,24 @@ The WAVE WebAIM web accessibility evaluation tool was used to ensure the website
 </details>
 
 3. wants to know where the restaurant is located and what the contact is for delivery and reservations.
+4. wants to let feedback for improving the place that they look for.
+5. wants to know more information about the vegetarian diet.
+6. Find a responsive design like phone user.
+7. Find a place who give information about the food that they provide.
+8. See a menu and prices.
+9. leave feedback about how they felt and what the place can improve.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Feedback Form| Form to submit their opinion | Form | Works as well |
+| Form structure | Name, date and opinion | Fill areas | Works as well |
+<details><summary>FORM</summary>
+<img src="assets/images/userstories_Form.png">
+</details>
+
+10. Find the social media of the restaurant. 
+11. Navigate in an easy site with a simple navigation bar.
+12. Know the location of the restaurant.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -375,24 +388,35 @@ The WAVE WebAIM web accessibility evaluation tool was used to ensure the website
 <img src="assets/images/userstories_aboutmap.png">
 </details>
 
-4. wants to let feedback for improving the place that they look for.
+13. Know the benefits of the Diet.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Feedback Form| Form to submit their opinion | Form | Works as well |
-| Form structure | Name, date and opinion | Fill areas | Works as well |
-<details><summary>FORM</summary>
-<img src="assets/images/userstories_Form.png">
+| Benefits Information | Navigate to benefit page, locate the Information | Text with the information that they are interesting | Works as well |
+| Video shared to complete the information | Go to the end to find it | Find a video where the client can learn more about the diet | Works as well |
+<details><summary>Benefits Page</summary>
+<img src="assets/images/userstories_benefits.png">
+</details>
+<details><summary>Information</summary>
+<img src="assets/images/userstories_benefits2.png">
+</details>
+<details><summary>Video</summary>
+<img src="assets/images/userstories_benefits3.png">
 </details>
 
-5. wants basic diet information.
+14. Clients who are searching change to a new diet and be healthy.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Basic information| Text with that| Text and graphics | Works as well |
-<details><summary>Basic_information</summary>
-<img src="assets/images/userstories_startinfo.png">
+| Diet Information | Home page locate the Information | Text with the information and a picture with t | Works as well |
+| Video shared to complete the information | Go to the end to find it | Find a video where the client can learn more about the diet | Works as well |
+<details><summary>Benefits Page</summary>
+<img src="assets/images/userstories_benefits.png">
 </details>
+
+15. Clear page where the client can buy easy.
+16. Easy way to contact us and arrive to the restaurant.
+17. Make feel the clients a place who care about them.
 
 
 ## __Bugs__

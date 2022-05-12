@@ -3,7 +3,7 @@
 
 Code institute Project portfolio 1 Healthy Body **CI_PP1_HB** Is a web page developed to emulate a vegetarian restaurant and create awareness to how we can help the environment and ourself reducing the animal agriculture just eating less meat or not, the idea is to share the benefits and how we can do a balanced diet eating more vegges. 
 
-![bar](./assets/IMG/special.jpeg)   
+![bar](./assets/images/special.jpeg)   
 
 - HTML 
 "HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript. [1](https://en.wikipedia.org/wiki/HTML) "
@@ -12,7 +12,7 @@ Code institute Project portfolio 1 Healthy Body **CI_PP1_HB** Is a web page deve
 "Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language such as HTML.
 [1] CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.[2](https://en.wikipedia.org/wiki/CSS)"
 
-![responsiveweb](assets/IMG/responsiveweb.jpeg) 
+![responsiveweb](assets/images/responsiveweb.jpeg) 
 
 [Live web page](https://jdhernandezs1.github.io/CI_PP1_HB/index.html)
 
@@ -102,23 +102,22 @@ First time user:
 #### __Returning User__
 As a returning user, We want:
 
-6. Find a vegetarian place.
+6. Find a responsive design like phone user.
 7. Find a place who give information about the food that they provide.
 8. See a menu and prices.
 9. leave feedback about how they felt and what the place can improve.
 10. Find the social media of the restaurant. 
-11. Know about the bases of the vegetarian diet.
+11. Navigate in an easy site with a simple navigation bar.
 12. Know the location of the restaurant.
-13. See the meals offered.
-14. Know the benefits of the Diet.
+13. Know the benefits of the Diet.
 
 #### __Site Owner__
 As the site owner, we want:
 
-15. Clients who are searching change to a new diet and be healthy.
-16. Clear page where the client can buy easy.
-17. Easy way to contact us and arrive to the restaurant.
-18. Make feel the clients a place who care about them.
+14. Clients who are searching change to a new diet and be healthy.
+15. Clear page where the client can buy easy.
+16. Easy way to contact us and arrive to the restaurant.
+17. Make feel the clients a place who care about them.
 
 ## __Design__
 
@@ -128,7 +127,7 @@ The virtual store was designed to make the customer feel that the place is more 
 ### __Colour__
 
 the color tones were specially chosen to conform to the concept and to a simple and friendly design.
-![colors](./assets/IMG/colors.png)  
+![colors](./assets/images/colors.png)  
 <br>
 
 ### __Fonts__
@@ -146,6 +145,26 @@ The WebPage was divided in 4 pages:
 - A page to describe the benefits of do a vegetarian diet in where the people can know how they help the environment and they self (them healthy).
 - A page to show the main information of the restaurant to be contacted like location phone and a little form to acquire some info about the experience.
 - The Last one is the menu easy and friendly with the people that don't use a lot the technical devices with a simple design with description name and price.
+### Wireframes
+
+<details><summary>Home</summary>
+<img src="assets/images/wireframe_home.png">
+</details>
+<details><summary>Benefits</summary>
+<img src="assets/images/wireframe_benefits.png">
+</details>
+<details><summary>Contact us</summary>
+<img src="assets/images/wireframe_contactus.png">
+</details>
+<details><summary>Menu</summary>
+<img src="assets/images/wireframe_menu.png">
+</details>
+<details><summary>404</summary>
+<img src="assets/images/wireframe_404.png">
+</details>
+<details><summary>footer</summary>
+<img src="assets/images/wireframe_footer.png">
+</details>
 
 ## __Technologies Used__
 
@@ -170,49 +189,64 @@ The WebPage was divided in 4 pages:
 
 The page is divided in 3 HTML documents first is a home page in where the user can apreciate a image to make you feel how taste is it 
 the Navigation bar was developed in 2 divisions where contain the items to navigate under the page  
+- User stories covered: 11
 
-![navigationbar](./assets/IMG/bar_1.png)  
+![navigationbar](./assets/images/bar_1.png)  
+
 ### __Benefits design__
 
 continue with a slogan for the "restaurant" and a some words to make feel good the guess and some specialitys to open the mind of the readers
 and some arguments and bases of the diet second is a little introduction to vegetarian and benefits
+- User stories covered: 13
 
-![bar_pc_view](./assets/IMG/benefits.jpeg)  
+![bar_pc_view](./assets/images/benefits.jpeg)  
 
 ### __Form Design__
 the next section reports about how the meat production destroy the environment and some illneses
 third is the contact with us to know about the client and how they felt.
 in a relaxing design to dont disturb the writer in where the user can feel quiet to express the ideas.  
-![comments](./assets/IMG/3.png)
+- User stories covered: 9
+
+![comments](./assets/images/formdesign.png)
 
 ### __Footer__
 
 the footer was created to be fluid with the other colors and share some social medias about by the restaurant.
 the proyect was developed in HTML & CSS using visual studio code, the code was tested with W3C
-every single html file is divided in sections where you have wrappers to be organized and easy future changes.  
-![footer](./assets/IMG/footer.png)  
+every single html file is divided in sections where you have wrappers to be organized and easy future changes. 
+- User stories covered: 10
+
+![footer](./assets/images/footer.png)  
 
 ### __Responsive Design__
 
 Was modified and adapted to the Iphone 5 screen  
 you can apreciate how looks in the picture  
+- User stories covered: 6
 
-![responsiveweb](assets/IMG/responsiveweb.jpeg) 
+![responsiveweb](assets/images/responsiveweb.jpeg) 
+
 ### __Menu__
 
 Simply and easy use page with the most important indicators like description buttom to buy title and a picture where the clients can know what they will eat
+- User stories covered: 8
 
-![Menu](assets/IMG/menu.png) 
+![Menu](assets/images/menu.png) 
+
 ### __Video__
 
 The video used for the curious clients who want to know more about the diet 
+- User stories covered: 1
 
-![video](assets/IMG/video.png)  
+![video](assets/images/video.png)
+
 ### __Map and location__
 
 The google map location and phone to contact us.
+- User stories covered: 12
 
-![map](assets/IMG/map.png) 
+![map](assets/images/map.png) 
+
 ## __Validation__
 
 ### __HTML Validation__
@@ -221,16 +255,19 @@ The Validator used was W3C Service to validate the HTML of the webpage,
 the entire project pass with no errors and warning by use of some tools.
 
 <details><summary>Home Validation</summary>
-<img src="assets/IMG/validator_index.jpeg">
+<img src="assets/images/validator_index.jpeg">
 </details>
 <details><summary>Benefits Validation</summary>
-<img src="assets/IMG/validator_benefits.jpeg">
+<img src="assets/images/validator_benefits.jpeg">
 </details>
 <details><summary>Contact Us Validation</summary>
-<img src="assets/IMG/validator_contactus.jpeg">
+<img src="assets/images/validator_contactus.jpeg">
 </details>
 <details><summary>Menu Validation</summary>
-<img src="assets/IMG/validator_about.jpeg">
+<img src="assets/images/validator_about.jpeg">
+</details>
+<details><summary>404 Validation</summary>
+<img src="assets/images/validator_404.png">
 </details>
 
 ### __CSS Validation__
@@ -240,7 +277,7 @@ W3C's  determine key parts of what makes the World Wide Web activity.
 W3C was used to validate the CSS style of the whole page
 
 <details><summary>style.css</summary>
-<img src="assets/IMG/validator_css.png">
+<img src="assets/images/validator_css.png">
 </details>
 
 ### __Accessibility__
@@ -248,16 +285,19 @@ W3C was used to validate the CSS style of the whole page
 The WAVE WebAIM web accessibility evaluation tool was used to ensure the website met high accessibility standards. All pages pass with 0 errors.
 
 <details><summary>Home accessibility</summary>
-<img src="assets/IMG/access_index.png">
+<img src="assets/images/access_index.png">
 </details>
 <details><summary>Benefits accessibility</summary>
-<img src="assets/IMG/acces_benefits.png">
+<img src="assets/images/acces_benefits.png">
 </details>
 <details><summary>Contact Us accessibility</summary>
-<img src="assets/IMG/access_contactus.png">
+<img src="assets/images/access_contactus.png">
 </details>
 <details><summary>Menu accessibility</summary>
-<img src="assets/IMG/access_menu.png">
+<img src="assets/images/access_menu.png">
+</details>
+<details><summary>404 accessibility</summary>
+<img src="assets/images/access_404.png">
 </details>
 
 ### __Performance__
@@ -265,16 +305,19 @@ The WAVE WebAIM web accessibility evaluation tool was used to ensure the website
  The performance test of the website was make by Google Lighthouse in Google Chrome Developer Tools: 
 
 <details><summary>Home performance</summary>
-<img src="assets/IMG/lighthouse_index.png">
+<img src="assets/images/lighthouse_index.png">
 </details>
 <details><summary>Benefits performance</summary>
-<img src="assets/IMG/lighthouse_benefits.png">
+<img src="assets/images/lighthouse_benefits.png">
 </details>
 <details><summary>Contact Us performance</summary>
-<img src="assets/IMG/lighthouse_contact.png">
+<img src="assets/images/lighthouse_contact.png">
 </details>
 <details><summary>Menu performance</summary>
-<img src="assets/IMG/lighthouse_menu.png">
+<img src="assets/images/lighthouse_menu.png">
+</details>
+<details><summary>404 performance</summary>
+<img src="assets/images/lighthouse_404.png">
 </details>
 
 ### __Browsers support__
@@ -292,13 +335,13 @@ The WAVE WebAIM web accessibility evaluation tool was used to ensure the website
 | Benefits Information | Navigate to benefit page, locate the Information | Text with the information that they are interesting | Works as well |
 | Video shared to complete the information | Go to the end to find it | Find a video where the client can learn more about the diet | Works as well |
 <details><summary>Benefits Page</summary>
-<img src="assets/IMG/userstories_benefits.png">
+<img src="assets/images/userstories_benefits.png">
 </details>
 <details><summary>Information</summary>
-<img src="assets/IMG/userstories_benefits2.png">
+<img src="assets/images/userstories_benefits2.png">
 </details>
 <details><summary>Video</summary>
-<img src="assets/IMG/userstories_benefits3.png">
+<img src="assets/images/userstories_benefits3.png">
 </details>
 
 2. wants to know the prices, ingredients and meals variety.
@@ -309,10 +352,10 @@ The WAVE WebAIM web accessibility evaluation tool was used to ensure the website
 | Items with information price and option to buy| Explore the menu | Items with description price and buy button | Works as well |
 
 <details><summary>Menu page</summary>
-<img src="assets/IMG/userstories_menu.png">
+<img src="assets/images/userstories_menu.png">
 </details>
 <details><summary>Menu items</summary>
-<img src="assets/IMG/userstories_menuitem.png">
+<img src="assets/images/userstories_menuitem.png">
 </details>
 
 3. wants to know where the restaurant is located and what the contact is for delivery and reservations.
@@ -323,13 +366,13 @@ The WAVE WebAIM web accessibility evaluation tool was used to ensure the website
 | Restaurant information | Find the information | Phone and direction | Works as well |
 
 <details><summary>Contact Us</summary>
-<img src="assets/IMG/userstories_contact_us.png">
+<img src="assets/images/userstories_contact_us.png">
 </details>
 <details><summary>Restaurant Information</summary>
-<img src="assets/IMG/userstories_aboutInformation.png">
+<img src="assets/images/userstories_aboutInformation.png">
 </details>
 <details><summary>MAP</summary>
-<img src="assets/IMG/userstories_aboutmap.png">
+<img src="assets/images/userstories_aboutmap.png">
 </details>
 
 4. wants to let feedback for improving the place that they look for.
@@ -339,7 +382,7 @@ The WAVE WebAIM web accessibility evaluation tool was used to ensure the website
 | Feedback Form| Form to submit their opinion | Form | Works as well |
 | Form structure | Name, date and opinion | Fill areas | Works as well |
 <details><summary>FORM</summary>
-<img src="assets/IMG/userstories_Form.png">
+<img src="assets/images/userstories_Form.png">
 </details>
 
 5. wants basic diet information.
@@ -347,9 +390,10 @@ The WAVE WebAIM web accessibility evaluation tool was used to ensure the website
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Basic information| Text with that| Text and graphics | Works as well |
-<details><summary>FORM</summary>
-<img src="assets/IMG/userstories_startinfo.png">
+<details><summary>Basic_information</summary>
+<img src="assets/images/userstories_startinfo.png">
 </details>
+
 
 ## __Bugs__
 
@@ -360,12 +404,35 @@ The WAVE WebAIM web accessibility evaluation tool was used to ensure the website
 
 ## __Deployment__
 
+### Share the code
+
 The deployement of the website was by using GitHub Pages following the steps:
+
 1. In the settings of repository in GITHUB page.
 2. On the menu in the section code and automation, Pages.
 3. Select main branch in the selector in source.
 4. If all before was did as well you can see Your site is published with your "url"
 
+### Fork the code
+
+To fork the repository:
+
+1. On the GitHub repository.
+2. Press Fork button in right upper at hand corner.
+
+### Clone the code
+
+To clone the repository:
+- In the Github repository
+1. Locate the button __Code__ in the right uper corner. 
+2. Chose between HTTPS, SSH, Github CLI or download zip.
+3. Open Git Terminal (Bash).
+4. Go to the directory where you want to cloned the file.
+6. Use command Git clone and paste the URL.
+```bash
+git clone https://github.com/jdhernandezS1/CI_PP1_HB.git
+```   
+Online view [link_to_page](https://jdhernandezs1.github.io/CI_PP1_HB/index.html)
 ## __Credits__
 
 - Google apis for fonts and maps : fonts.googleapis.com
@@ -410,11 +477,5 @@ Please read through our contributing guidelines, every pull request has been not
 - CI_PP1_HB is an open source project by [CI_PP1_HB](https://github.com/jdhernandezS1/CI_PP1_HB) that is licensed under [ops](https://opensource.org/).
 - CI_PP1_HB reserves the right to change the license of future releases.
 
-## __Installation__
-You can download the full code with
-```bash
-git clone https://github.com/jdhernandezS1/CI_PP1_HB.git
-```   
-and viwed online in [link_to_page](https://jdhernandezs1.github.io/CI_PP1_HB/index.html)
 
 

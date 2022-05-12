@@ -534,7 +534,7 @@ ion-icon {
 
     .div404 {
         font-size: 5em;
-
+        
     }
 }
 
@@ -559,4 +559,5 @@ ion-icon {
         0 20px 20px rgba(0, 0, 0, .15);
     text-align: center;
     padding-top: 10%;
+    background-color: black;
 }

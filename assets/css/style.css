@@ -1,12 +1,12 @@
 /* Google fonts  */
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Macondo&display=swap');
-/* GOOGLE */
+/* GOOGLE END*/
+/* FONT */
 body {
     margin: 0;
     font-family: 'Roboto', sans-serif;
 }
-
 /* HTML STYLE */
 /* bar style */
 .nav_bar {
@@ -77,7 +77,12 @@ body {
 .ion_icon {
     font-size: 2vw;
 }
-
+/* PICTURES STYLE */
+.index_img{
+    height: 200px; 
+    width: 170px;
+}
+/* home div index */
 .home {
     display: flex;
     justify-content: center;
@@ -140,7 +145,7 @@ body {
     height: 200px;
     width: 230px;
 }
-
+/* division page */
 .divisor {
     background-color: green;
     width: 100%;
@@ -169,7 +174,7 @@ body {
 }
 
 /* Style about.html */
-/*  */
+/*  section*/
 .contact_us {
     text-align: center;
     width: 100%;
@@ -194,7 +199,7 @@ body {
 .contact_us ion-icon {
     font-size: 6vw;
 }
-
+/* form style */
 form label {
     font-size: large;
     display: block;
@@ -247,7 +252,7 @@ form input[type="button"] {
     align-items: center;
 
 }
-
+/* Map Style */
 .map {
     align-items: center;
     text-align: center;
@@ -258,13 +263,13 @@ form input[type="button"] {
     width: 80%;
     height: 30vw;
 }
-
+/* check_boxes */
 .questions_box1 {
     align-items: center;
     text-align: center;
+    margin-bottom: 10vw;
 }
 
-/*  */
 /* benefits styles */
 .benefits_wrap {
     display: flex;
@@ -334,7 +339,7 @@ hr {
     max-width: 700px;
 
 }
-
+/* PRUDUCT STYLE */
 .product-list {
     padding: 30px;
     border-radius: 10%;
@@ -354,7 +359,10 @@ hr {
     flex-direction: column;
     padding: 10px;
 }
-
+.product_items{
+    width:250px; 
+    height:227px;
+}
 .short-description {
     text-align: justify;
 }
@@ -481,7 +489,7 @@ ion-icon {
     section {
         padding: 0;
     }
-
+    
     .benefits_container {
         width: 85vw;
         text-align: center;

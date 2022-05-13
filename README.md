@@ -354,23 +354,95 @@ The WAVE WebAIM web accessibility evaluation tool was used to ensure the website
 </details>
 
 3. wants to know where the restaurant is located and what the contact is for delivery and reservations.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Location and address| Navigate to Contact US page, Locate the info | Map and address | Works as well |
+
+<details><summary>MAP and Address</summary>
+<img src="assets/images/userstories_map.png">
+</details>
+
 4. wants to let feedback for improving the place that they look for.
-5. wants to know more information about the vegetarian diet.
-6. Find a responsive design like phone user.
-7. Find a place who give information about the food that they provide.
-8. See a menu and prices.
-9. leave feedback about how they felt and what the place can improve.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Feedback Form| Form to submit their opinion | Form | Works as well |
 | Form structure | Name, date and opinion | Fill areas | Works as well |
-<details><summary>FORM</summary>
+<details><summary>Form</summary>
 <img src="assets/images/userstories_Form.png">
 </details>
 
+5. wants to know more information about the vegetarian diet.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Text and Picture with more information| Text Listed with pictures | Fluid design | Works as well |
+
+<details><summary>Information Listed</summary>
+<img src="assets/images/userstories_userstories_infobene.png">
+</details>
+
+
+6. Find a responsive design like phone user.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|Responsive page| Adapt to different screen | Good visualization | Works as well |
+
+<details><summary>Visualization</summary>
+<img src="assets/images/responsiveweb.jpeg">
+</details>
+
+7. Find a place who give information about the food that they provide.
+
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|Section adapted to show chemical details| mix images and text in list| Good images size and list good adapted | Works as well |
+
+<details><summary>Details Section</summary>
+<img src="assets/images/userstories_section_details.png">
+</details>
+
+8. Show prices in the menu.
+
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|Good position of the price in the product| Put the price in the correct side| User easy view | Works as well |
+
+<details><summary>Menu And price</summary>
+<img src="assets/images/userstories_menu_prices.png">
+</details>
+
+9. leave feedback about how they felt and what the place can improve.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Checkbox Questionare | Give options to measure level of experience | Checkbox | Works as well |
+<details><summary>Questionare</summary>
+<img src="assets/images/userstories_quest.png">
+</details>
+
 10. Find the social media of the restaurant. 
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Social media buttons | Open it on blank page | button Link | Works as well |
+<details><summary>Social media</summary>
+<img src="assets/images/userstories_socialmedia.png">
+</details>
+
 11. Navigate in an easy site with a simple navigation bar.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Nav bar with mark of view | Border to show where you are | Border color | Works as well |
+<details><summary>Fluid Nav Bar </summary>
+<img src="assets/images/userstories_navbar.png">
+</details>
+
 12. Know the location of the restaurant.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
@@ -415,8 +487,36 @@ The WAVE WebAIM web accessibility evaluation tool was used to ensure the website
 </details>
 
 15. Clear page where the client can buy easy.
-16. Easy way to contact us and arrive to the restaurant.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Buttom to buy | Buy items | Buy easy and semply | Works as well |
+
+<details><summary>Buy buttom</summary>
+<img src="assets/images/userstories_buy.png">
+</details>
+
+
+16. Easy way to contact the restaurant.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Section mixing information and the other topics | structure where integrate three user stories | Good, easy and structured | Works as well |
+
+<details><summary>Structure</summary>
+<img src="assets/images/userstories_structure.png">
+</details>
+
+
 17. Make feel the clients a place who care about them.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Friendly structure | Image with feelings and text aproching | Client feel as well | Works as well |
+
+<details><summary>Friendly section</summary>
+<img src="assets/images/userstories_usercare.png">
+</details>
 
 
 ## __Bugs__

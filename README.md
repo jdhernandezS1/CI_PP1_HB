@@ -379,7 +379,7 @@ The WAVE WebAIM web accessibility evaluation tool was used to ensure the website
 | Text and Picture with more information| Text Listed with pictures | Fluid design | Works as well |
 
 <details><summary>Information Listed</summary>
-<img src="assets/images/userstories_userstories_infobene.png">
+<img src="assets/images/userstories_infobene.png">
 </details>
 
 

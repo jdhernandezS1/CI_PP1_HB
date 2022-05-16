@@ -22,6 +22,7 @@ body {
     border-bottom-style: solid;
     border-bottom-color: green;
 }
+/* items inside navbar */
 .navitem_active{
     border-bottom: 3px double green;
 }
@@ -31,7 +32,7 @@ body {
     margin: 0;
     padding: 0;
 }
-
+/* type of list navbar */
 .sidenav li {
     float: left;
 }
@@ -82,7 +83,7 @@ body {
     height: 200px; 
     width: 170px;
 }
-/* home div index */
+/* Home div inside index */
 .home {
     display: flex;
     justify-content: center;
@@ -199,7 +200,7 @@ body {
 .contact_us ion-icon {
     font-size: 6vw;
 }
-/* form style */
+/* Form style */
 form label {
     font-size: large;
     display: block;
@@ -263,14 +264,14 @@ form input[type="button"] {
     width: 80%;
     height: 30vw;
 }
-/* check_boxes */
+/* Check_boxes */
 .questions_box1 {
     align-items: center;
     text-align: center;
     margin-bottom: 10vw;
 }
 
-/* benefits styles */
+/* Benefits styles */
 .benefits_wrap {
     display: flex;
     justify-content: center;
@@ -305,8 +306,7 @@ form input[type="button"] {
 hr {
     background-color: green;
 }
-
-/* menu style */
+/* Menu style */
 .starter {
     height: 5vw;
 }
@@ -339,6 +339,7 @@ hr {
     max-width: 700px;
 
 }
+/* inside menu */
 /* PRUDUCT STYLE */
 .product-list {
     padding: 30px;

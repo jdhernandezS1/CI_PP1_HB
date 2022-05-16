@@ -48,8 +48,7 @@ Code institute Project portfolio 1 Healthy Body **CI_PP1_HB** Is a web page deve
 10. [Credits](#credits)
 11. [Contributing](#contributing)
 12. [License](#license)
-13. [Installation](#installation)
-14. [Acknowledgements](#acknowledgements)
+13. [Acknowledgements](#acknowledgements)
 
 ## __Project Goals__
 
@@ -566,8 +565,8 @@ Online view [link_to_page](https://jdhernandezs1.github.io/CI_PP1_HB/index.html)
 - vegetarian cooking by Jerónimo Yagüe Calvo 2006. 
 
 ### __Code__
-
 In order how was used:
+
 - GITHUB to create the repository.
 - Visual Studio Code by develop the HTML, CSS and Code 404 Page.
 
@@ -583,13 +582,6 @@ The softwares language and recomended IDE used to build the project.
 * [GitHub](https://github.com/)
 
 
-## __Acknowledgements__
-
-Cordially thanks to: 
-
-- HashEm to bless me.
-- My mentor Mo Shami for his support and Professional advices.
-- My Family to support me.
 ## __Contributing__
 
 Please read through our contributing guidelines, every pull request has been notified to be able to push code included 
@@ -601,5 +593,10 @@ Please read through our contributing guidelines, every pull request has been not
 - CI_PP1_HB is an open source project by [CI_PP1_HB](https://github.com/jdhernandezS1/CI_PP1_HB) that is licensed under [ops](https://opensource.org/).
 - CI_PP1_HB reserves the right to change the license of future releases.
 
+## __Acknowledgements__
 
+Cordially thanks to: 
 
+- HashEm to bless me.
+- My mentor Mo Shami for his support and Professional advices.
+- My Family to support me.

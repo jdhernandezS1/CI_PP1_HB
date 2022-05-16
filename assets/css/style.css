@@ -499,6 +499,7 @@ ion-icon {
 
     .contact_us {
         width: 100vw;
+        height: 300px;
     }
 
     .banner {
@@ -516,6 +517,10 @@ ion-icon {
         width: 80vw;
     }
 
+    .map iframe{
+        width: 100%;
+        height: 300px;
+    }
     /* MENU  */
     .menu_2col {
         justify-content: center;

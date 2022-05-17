@@ -328,6 +328,7 @@ hr {
 .menu_titles{
     color: white;
     margin: 20px;
+    background-color: black;
 }
 .menu_2col {
     list-style-type: none;

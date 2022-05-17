@@ -527,6 +527,8 @@ ion-icon {
 
     }
     .menu{
+        background-image: none;
+        background-color: black;
         margin-top: 18vw;
     }
     .product_item {

@@ -561,6 +561,19 @@ Online view [link_to_page](https://jdhernandezs1.github.io/CI_PP1_HB/index.html)
 - Google apis for fonts and maps : fonts.googleapis.com
 - icons source : https://ionic.io/ionicons
 - https://www.w3schools.com  
+### __Media__
+Images Sources:
+- shutterstock
+- inspirulina
+- buzzfeed
+- funfoodfrolic
+- tesco
+- recipetineats
+- meredithcorp
+- independent
+- budgetbytes
+- immediate
+
 ### __Information__
 - vegetarian cooking by Jerónimo Yagüe Calvo 2006. 
 

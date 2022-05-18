@@ -432,29 +432,24 @@ ion-icon {
     .nav_item {
         padding: 0 5px;
     }
-
     .sec2_wrap {
         flex-direction: column;
         align-items: center;
     }
-
     .container {
         width: 90%;
         height: 50%;
     }
-
     .guide_wrap {
         padding: 10px;
         flex-direction: column;
         width: 90%;
     }
-
     .guide {
         align-items: center;
         width: 100%;
         text-align: center;
     }
-
     .guide img {
         height: 200px;
         width: 90%;
@@ -464,9 +459,8 @@ ion-icon {
     .nav_bar {
         height: 20vw;
         flex-direction: column;
-        align-items: normal;
+        align-items: center;
     }
-
     .nav_item {
         font-size: medium;
 
@@ -476,33 +470,23 @@ ion-icon {
         font-size: larger;
         inline-size: max-content;
     }
-
     .sidenav li {
         font-size: small;
         padding: 1vw 2vw;
     }
-
     /* benefits */
     .video iframe {
         width: 100%;
         height: 100%;
     }
-
     section {
         padding: 0;
     }
-    
     .benefits_container {
         width: 85vw;
         text-align: center;
         align-items: center;
     }
-
-    .contact_us {
-        width: 100vw;
-        height: 300px;
-    }
-
     .banner {
         width: 100%;
         height: 70px;
@@ -514,6 +498,10 @@ ion-icon {
     }
 
     /* contact us style */
+    .contact_us {
+        width: 100%;
+    height: 550px;
+    }
     .form_box2 {
         width: 80vw;
     }

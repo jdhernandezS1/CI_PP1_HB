@@ -127,9 +127,11 @@ body {
 }
 
 .dish_wrap {
-    display: flex;
-    flex-direction: column;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 350px);
+    gap: 20px;
     text-align: center;
+    justify-content: center;
     text-transform: capitalize;
     background-color: rgba(26, 171, 28, 0.249);
     padding: 3vw;
@@ -143,8 +145,8 @@ body {
 .dish_wrap img {
     border-radius: 20%;
     align-items: center;
-    height: 200px;
-    width: 230px;
+    height: 300px;
+    width: 300px; 
 }
 /* division page */
 .divisor {

@@ -147,10 +147,11 @@ body {
 }
 
 .dish_wrap img {
-    border-radius: 20%;
+    border-radius: 50%;
     align-items: center;
     height: 300px;
     width: 300px; 
+    border: solid green 5px;
 }
 /* division page */
 .divisor {

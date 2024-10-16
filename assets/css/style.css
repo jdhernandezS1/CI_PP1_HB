@@ -435,28 +435,49 @@ h2 {
 
 /*footer */
 footer {
-    border-top: 1px solid #d6d6d6;
-    border-top-style: solid;
-    border-top-color: green;
-    background-color: white;
-    padding: 25px;
-    height: 15%;
-}
-
-footer p {
-    margin: 0px;
+    background-color: #4CAF50;
+    color: #ffffff;
+    padding: 30px 0;
     text-align: center;
-    color: black;
-}
-
-#footer_wrap {
-    display: flex;
-    justify-content: space-around;
-}
-
-ion-icon {
-    color: black;
-}
+    font-family: 'Helvetica', sans-serif;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .footer-text {
+    margin: 0;
+    font-size: 16px;
+  }
+  
+  #footer_wrap {
+    margin-top: 20px;
+  }
+  
+  .icon {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 28px;
+  }
+  
+  .footer-links {
+    margin: 15px 0 0;
+    font-size: 14px;
+  }
+  
+  .footer-links a {
+    color: #ffffff;
+    text-decoration: none;
+    margin: 0 10px;
+  }
+  
+  .footer-links a:hover {
+    text-decoration: underline;
+  }
+  
 
 /* DISPLAY SET UP */
 @media screen and (max-width: 480px) {

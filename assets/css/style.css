@@ -2,6 +2,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Macondo&display=swap');
 /* GOOGLE END*/
+/* Variables */
+:root {
+    --secondary-color: #a8ffa93f;
+}
 /* FONT */
 body {
     margin: 0;
@@ -133,9 +137,9 @@ body {
     text-align: center;
     justify-content: center;
     text-transform: capitalize;
-    background-color: rgba(26, 171, 28, 0.249);
+    background-color: var(--secondary-color);
     padding: 3vw;
-    border-radius: 3%;
+    border-radius: 0%;
 }
 
 .dish_container {

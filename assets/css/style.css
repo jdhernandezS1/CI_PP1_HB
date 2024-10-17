@@ -345,7 +345,8 @@ hr {
     text-align: center;
     justify-content: center;
     text-transform: capitalize;
-    padding: 3vw;
+    padding: 0px;
+    margin: 10px;
     border-radius: 0%;
     list-style: none;
     width: 100%;

@@ -189,7 +189,7 @@ body {
     height: 100%;
     text-transform: capitalize;
     font-size: larger;
-    background-image: url("/statics/images/delivery.png");
+    background-image: url("https://github.com/jdhernandezS1/CI_PP1_HB/blob/main/statics/images/delivery.png?raw=true");
     background-repeat: no-repeat;
     background-position: center;
     background-size:auto;

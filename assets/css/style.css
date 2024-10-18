@@ -484,6 +484,9 @@ footer {
 @media screen and (max-width: 480px) {
 
     /* index responsive */
+    .dish_container{
+        width: 96%!important;
+    }
     .nav_item {
         padding: 0 5px;
     }
@@ -577,8 +580,26 @@ footer {
         background-color: black;
         margin-top: 18vw;
     }
-    .product_item {
+    .product_items {
         margin: 0px;
+        width: 80%;
+        align-items: center;
+        border-radius: 0% !important;
+    }
+    .product_description p{
+        font-size: large;
+        color: #ffffff;
+    }
+    .menu_wrap{
+        width: 90%;
+        justify-content:space-around;
+    }
+    .product-list{
+        padding: 0px;
+        margin: auto;
+        width: 80%;
+        background-color: transparent;
+        align-items: center;
     }
 
     h1,
